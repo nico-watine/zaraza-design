@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9.2//EN
+N:Zaraza;Juliana;;;
+FN:Juliana Zaraza
+ORG:Zaraza Design\, LLC;
+item1.EMAIL;type=INTERNET;type=pref:jzaraza@zarazadesign.com
+item1.X-ABLabel:Email
+TEL;type=CELL;type=VOICE;type=pref:281-250-0244
+item2.TEL:713-589-7962
+item2.X-ABLabel:fax
+item3.ADR;type=pref:;;988 Patterson St;Houston;TX;77007;
+item3.X-ABLabel:Address
+item4.URL;type=pref:www.zarazadesign.com
+item4.X-ABLabel:Website
+X-ABUID:1494799F-81C5-491A-9715-F0976BF0AF58
+END:VCARD

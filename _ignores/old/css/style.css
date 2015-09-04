@@ -1,0 +1,982 @@
+html, body {
+	background: rgba(136,169,199,1);
+	font-family: Novo, sans-serif;
+}
+
+/* @font-face
+================================================== */
+
+@font-face {
+  font-family: 'Novo';
+  src: url('../font/novo/Novecentosanswide-Book-webfont.eot'); /* IE9 Compat Modes */
+  src: url('../font/novo/Novecentosanswide-Book-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/novo/Novecentosanswide-Book-webfont.woff') format('woff'), /* Modern Browsers */
+       url('../font/novo/Novecentosanswide-Book-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../font/novo/Novecentosanswide-Book-webfont.svg#5058f1af8388633f609cadb75a75dc9d') format('svg'); /* Legacy iOS */       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+/* Lavalamp Menu
+================================================== */
+
+.lavalamp-object {
+	border: 1px solid #f0f0f0;
+  	background-image: url(../img/bg/bg-menu.png);
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px; 
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.lavalamp {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 30px;
+}
+
+ul.lavalamp li {
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px 20px;
+	font-size: 15px;
+}
+
+ul.lavalamp li a {
+	color: #777;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+	line-height: 30px;
+	padding-left: 16px;
+}
+
+.black {
+	color: black !important;
+}
+
+/* General Body Elements
+================================================== */
+
+.header {
+	background: white;
+	height: 100px;
+	width: 100%;
+	position: absolute;
+	z-index: 999;
+	top: 0;
+	border-top: 7px solid rgba(136,169,199,1);
+}
+
+.logo {
+	margin-top: 10px;
+}
+ 
+.index-container {
+	background: white;
+	height: 890px;
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+	top: 107px;
+	border-top: 5px solid #777;
+}
+
+.pt-10 {
+	padding-top: 10px;
+	background: url(../img/lines/curly-670.png) no-repeat;
+	background-position: center;
+}
+
+.pt-30 {
+	padding-top: 30px;
+}
+
+.pt-last-30 {
+	padding-top: 30px;
+}
+
+/* Home Page Styling
+================================================== */
+
+.cycle-slideshow {
+	width: 960px;
+	height: 344px;
+	position: relative; 
+	top: 0;
+	left: 0;
+	margin-left: -10px;
+	overflow: hidden;
+}
+
+.line-bg {
+	background: url(../img/lines/curly-1.png) no-repeat;
+	height: 190px;
+	width: 940px;
+}
+.home-text
+{
+	width: 670px;
+	height: 210px;
+	position: relative;
+	margin: 0 auto;
+	padding: 60px 10px 20px 10px;
+	text-align:center;
+	border: none;
+	background: url(../img/lines/curly-bg.jpg) no-repeat;
+	background-size: contain;
+	background-position: center center;
+}
+
+.home-text h1, 
+{
+	font-size: 40px;
+}
+
+.home-text p
+{
+	font-size: 30px;
+	line-height: 38px
+}
+
+/* Home Page Linking
+================================================== */
+
+.project-rectangle,
+.design-rectangle {
+	height: 190px;
+	border-top: 3px solid #777;
+	border-bottom: 3px solid #777;
+	margin-left: -10px;
+}
+
+.project-rectangle {
+	width: 480px;
+}
+
+.design-rectangle {
+	border-left: 3px solid #777;
+	width: 477px;
+}
+
+/* Gallery Page Styling
+================================================== */
+
+.gallery-container {
+	background: white;
+	height: 1000px;
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+	top: 107px;
+	border-top: 5px solid #777;
+}
+
+.gallery-thumb
+{
+	height: 220px; 
+	width: 220px;
+	border: none;
+}
+
+h2.fulton-link {
+	margin-bottom: 0;
+}
+
+a.fulton-link:hover {
+	text-decoration: none;
+}
+
+.container-fulton-link {
+	margin-top: -50px;
+}
+
+/*.fulton-link-div {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}*/
+
+/* Fulton Project Page Styling
+================================================== */
+
+.fulton-container {
+	background: white;
+	height: 900px;
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+	top: 107px;
+	border-top: 5px solid #777777;
+}
+
+#galleria {
+	height:615px; 
+	width: 100%;
+	margin-top: 30px;
+}
+
+.fulton-header
+{
+	position: relative;
+	height: 100px;
+	text-align:left;
+	margin-top: 20px;
+}
+
+.fulton-header h1
+{
+	font-size: 90px;
+	font-weight: normal;
+	padding: 25px;
+}
+
+.gallery-return h2 {
+	margin-top: 40px;
+	font-size: 40px;
+}
+
+a.gallery-return {
+	text-decoration: underline;
+}
+
+a.gallery-return:hover {
+	text-decoration: none;
+}
+
+/* Services Page Styling
+================================================== */
+
+.services-container
+{
+	height: 660px;
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+	top: 107px;
+	background-image: url(../img/services/services-bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: white;
+	border-top: 5px solid #777777;
+}
+
+.services-header
+{
+	position:absolute;
+	top: 70px;
+	left:35px !important;
+	width: 413px;
+	height: 50px;
+	text-align:left;
+	line-height: 1px;
+}
+
+.services-header h1
+{
+	font-size: 90px;
+	font-weight: normal;
+}
+
+.services-text
+{
+	position:absolute;
+	top:160px;
+	left:10px;
+	font-size: 24px;
+	line-height: 27px;
+	padding: 10px;
+	width: 820px;
+}
+
+.services-text p
+{
+	padding: 10px;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: 300;
+}
+
+/* Contact Page Styling
+================================================== */
+
+.contact-container
+{
+	height: 680px;
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+	top: 107px;
+	background-image: url(../img/contact/contact-bg2.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: white;
+	border-top: 5px solid #777777;
+}
+
+.contact-header
+{
+	position: relative;
+	height: 100px;
+	text-align:left;
+	margin-top: 20px;
+}
+
+.contact-header h1
+{
+	font-size: 90px;
+	font-weight: normal;
+	padding: 25px;
+}
+
+.contact-text p
+{
+	font-size: 37px;
+	padding-top: 30px;
+	line-height: 40px;
+	padding-left: 20px;
+}
+
+.twitter-widget {
+	position: relative;
+	width: 300px;
+	height: 450px;
+	margin: 25px auto;
+	/*padding-top: 25px;
+	padding-left: 10px;*/
+}
+
+.profile {
+	display: block;
+	margin: auto;
+}
+
+/* Footer Styling
+================================================== */
+
+/* 100% Width Footer */
+.footer {
+	width: 100%;
+	height: 100px;
+	top: 100px;
+	position: relative;
+	background: #777;
+}
+
+.footer-fulton {
+	width: 100%;
+	height: 100px;
+	top: 100px;
+	position: relative;
+	background: #777;
+}
+
+.footer-gallery {
+	width: 100%;
+	height: 100px;
+	top: 100px;
+	position: relative;
+	background: #777;
+}
+
+.footer-contact {
+	width: 100%;
+	height: 100px;
+	top: 100px;
+	position: relative;
+	background: #777;
+}
+
+.footer-gallery {
+	top: 50px;
+}
+
+.footer-services {
+	top: 100px !important;
+}
+
+.footer-contact {
+	top: 107px;
+}
+
+p.copyright {
+	font-size: 14px;
+	margin-top: 20px;
+	margin-bottom: 0;
+	color: #ccc;
+	text-align: center;
+}
+
+p.snc {
+	font-size: 13px;
+	color: #ccc;
+	text-align: center;
+}
+
+a.snc-link {
+	color: #ccc;
+}
+
+a.snc-link:hover {
+	text-decoration: none;
+}
+
+.align-center {
+	text-align: center;
+}
+.social {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 20px;
+}
+
+ul.social li {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.footer-content {
+	height: 50px;
+}
+
+.gallery-title h1 {
+	font-size: 75px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 20px;
+}
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+.header {
+	height: 125px;
+	width: 100%px;
+}
+
+.footer-fulton {
+	top: 130px;
+}
+
+.fulton-container {
+	height: 900px;
+	top: 132px;
+}
+.footer {
+	top: 125px !important;
+	width: 100%;
+}
+
+.footer-contact {
+	top: 105px !important;
+	width: 100%;
+}
+
+.index-container {
+	top: 132px;
+	height: 770px;
+}
+
+.contact-container {
+	height: 700px !important;
+	top: 132px;
+}
+.cycle-slideshow,
+.index-container,
+.gallery-container,
+.services-container,
+.contact-container,
+.fulton-container {
+	width: 768px;
+}
+
+.services-container {
+	top: 132px;
+	height: 700px;
+}
+.gallery-container {
+	height: 830px;
+	top: 132px;
+}
+
+.footer-gallery {
+	top: 27px !important;
+}
+
+.cycle-slideshow {
+	height: 270px;
+}
+
+.project-rectangle,
+.design-rectangle {
+	height: 152px;
+}
+
+.project-rectangle {
+	width: 384px;
+}
+
+.design-rectangle {
+	width: 381px !important;
+}
+
+.gallery-thumb {
+	height: 172px; 
+	width: 172px;
+}
+
+.services-text {
+	width: 700px;
+}
+
+.contact-text p {
+	font-size: 30px;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+.contact-header h1 {
+	font-size: 73px;
+	padding: 25px;
+}
+
+.contact-header {
+	top: 0px;
+	margin-top: 40px;
+}
+
+.fulton-header
+{
+	margin-top: 20px;
+}
+
+.fulton-header h1 {
+	font-size: 80px;
+}
+
+.gallery-return h2 {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.fulton-link-div {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+h1.fulton-link {
+	font-size: 40px;
+	padding-left: 30px;
+}
+
+h2.fulton-link {
+	font-size: 33px;
+}
+
+.container-fulton-link {
+	margin-top: 0 !important;
+}
+
+}
+
+/* #Mobile (Landscape)
+================================================== */
+
+    /* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.lavalamp {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+.footer {
+	height: 110px !important;
+	top: 245px !important;
+}
+
+.footer-fulton {
+	top: 100px !important;
+}
+.footer-services {
+	top: 210px !important;
+}
+
+.footer-services-height {
+	top: 220px;
+}
+.cycle-slideshow,
+.index-container,
+.gallery-container,
+.services-container,
+.fulton-container {
+	width: 420px !important;
+}
+
+.gallery-container,
+.services-container {
+	top: 222px !important;
+}
+
+.cycle-slideshow {
+	height: 151px !important;
+	margin-left: 0px !important;
+	width: 420px !important;
+}
+
+.index-container {
+	height: 780px !important;
+	width: 420px !important;
+}
+
+.gallery-container {
+	width: 420px !important;
+	top: 247px !important;
+}
+
+.project-rectangle,
+.design-rectangle {
+	width: 420px !important;
+	height: 166px !important;
+	margin-left: 0px !important;
+}
+
+.design-rectangle {
+	border-top: 0px !important;
+	border-left: 0px !important;
+}
+
+.home-text
+{
+	width: 410px !important;
+	margin: 0px !important;
+	padding-left: 5px !important;
+	padding-top: 15px !important;
+	padding-right: 0 !important;
+	padding-bottom: 0px !important;
+	margin-top: 20px !important;
+	height: 210px !important;
+}
+
+.home-text p
+{
+	font-size: 23px !important;
+	line-height: 33px !important;
+}
+
+.lavalamp {
+	margin-top: 20px !important;
+}
+
+.footer-gallery {
+	top: 10px !important;
+}
+
+.footer-services {
+	top: 240px;
+}
+
+.services-container {
+	width: 420px !important;
+	top: 247px !important;
+	border-top: 3px solid #777;
+	height: 950px !important;
+	background-size: contain !important;
+}
+
+.services-text {
+	left: 0 !important;
+	width: 400px !important;
+}
+.services-header h1 {
+	margin-top: 15px !important;
+	font-size: 80px !important;
+}
+
+.contact-container
+{
+	height: 1320px !important;
+	width: 420px !important;
+}
+
+.contact-header
+{
+	position: relative;
+	height: 180px;
+	text-align:left;
+	left: 15px !important;
+	margin-bottom: 0 !important;
+}
+
+.contact-header h1
+{
+	font-size: 65px;
+	font-weight: normal;
+}	
+
+.contact-text
+{
+	width: 420px !important;
+}
+
+.contact-text p
+{
+	font-size: 27px !important;
+	width: 420px !important;
+	padding-left: 0 !important;
+}
+
+.twitter-widget {
+	padding: 0px !important;
+	margin: auto;
+}
+
+.footer-contact {
+	top: 245px;
+}
+
+.fulton-header h1
+{
+	font-size: 55px;
+	padding-top: 10px !important;
+}
+
+
+.fulton-link-div {
+	margin-top: 30px !important;
+	margin-bottom: 35px !important;
+}
+
+#galleria {
+	margin-top: 40px !important;
+	height: 380px !important;
+}
+
+h1.fulton-link {
+	padding: 0 !important;
+	font-size: 38px !important;
+	margin-bottom: 0 !important;
+}
+
+h2.fulton-link {
+	font-size: 34px !important;
+}
+
+.gallery-return h2 {
+	margin-top: 40px !important;
+}
+
+.gallery-title h1 {
+	font-size: 75px !important;
+	margin-left: 0;
+}
+}
+
+/*  #Mobile (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 320px */
+
+@media only screen and (max-width: 767px) {
+.header {
+	height: 240px;
+}
+
+.footer {
+	top: 210px;
+	height: 110px;
+}
+
+.footer-gallery {
+	top: 30px;
+}
+
+.cycle-slideshow {
+	margin-left: 0px;
+	width: 300px;
+	height: 115px;
+}
+
+.gallery-container {
+	width: 300px;
+	height: 3000px;
+	top: 247px;
+}
+
+.index-container {
+	width: 300px;
+	top: 247px;
+	height: 760px;
+}
+
+.fulton-container {
+	width: 300px;
+	top: 247px;
+}
+
+.project-rectangle,
+.design-rectangle {
+	width: 300px;
+	height: 119px;
+	margin-left: 0px;
+}
+
+.design-rectangle {
+	border-top: 0px;
+	border-left: 0px;
+}
+
+.home-text
+{
+	width: 280px;
+	margin: 0px;
+	height: 265px;
+	padding-top: 30px;
+}
+
+.home-text p
+{
+	font-size: 23px;
+	line-height: 33px
+}
+
+.lavalamp {
+	margin-top: 20px;
+}
+
+.services-container {
+	background-image: url(../img/services/services-bg@m.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: white;
+	width: 300px;
+	top: 247px;
+	border-top: 3px solid #777;
+	height: 1150px;
+}
+
+.services-header {
+	left: 15px !important;
+}
+
+.services-text {
+	left: 0;
+	width: 280px;
+}
+
+.services-header h1 {
+	margin-top: 15px;
+	font-size: 65px;
+	width: 280px;
+}
+
+.footer-services {
+	top: 230px !important;
+}
+
+.contact-container
+{
+	height: 1350px;
+	width: 320px;
+	top: 247px;
+}
+
+.contact-header
+{
+	position: relative;
+	height: 180px;
+	text-align:left;
+	left: 15px !important;
+	margin-bottom: 30px
+}
+
+.contact-header h1
+{
+	font-size: 65px;
+	font-weight: normal;
+	line-height: 57px;
+}	
+
+.contact-text
+{
+	width: 320px;
+}
+
+.contact-text p
+{
+	font-size: 22px;
+	line-height: 35px;
+	width: 320px;
+	text-align: center;
+	margin-bottom: 30px;
+	padding-left: 0 !important;
+}
+
+.twitter-widget {
+	position: relative;
+	width: 300px;
+	height: 450px;
+	padding-left: 10px;
+}
+
+.footer-contact {
+	top: 245px;
+	height: 140px;
+}
+
+.fulton-container {
+	height: 670px;
+}
+
+.fulton-header h1
+{
+	font-size: 55px;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.footer-fulton {
+	top: 240px !important;
+}
+
+.fulton-link {
+	color: #444444 !important;
+}
+
+h1.fulton-link {
+	font-size: 32px;
+}
+
+h2.fulton-link {
+	font-size: 25px;
+}
+
+.fulton-link-div {
+	margin-top: 30px !important;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.gallery-return h2 {
+	text-align: center;
+	font-size: 35px;
+	margin-top: 25px;
+}
+
+#galleria {
+	margin-top: 90px;
+	height: 320px;
+}
+
+.container-fulton-link {
+	margin-top: 80px;
+}
+
+.gallery-title h1 {
+	text-align: center;
+	font-size: 55px;
+	margin-left: 0;
+}
+}

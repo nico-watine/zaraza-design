@@ -1,0 +1,52 @@
+Hello savvy Internet wanderer!
+
+:: This site is a Studio N Creation ::
+www.studioncreations.com
+
+
+Coded with <3 for a better web by Nico Watine.
+www.nicowatine.me
+
+================
+
+Get in touch :: nico.w@tine.rocks
+Need a website? :: contact@studioncreations.com
+
+================
+
+/* SITE COLOPHON */
+Framework: Skeleton 960
+Standards: HTML5, CSS3
+Components: jQuery, Normalize.css, html5shiv.js, Cycle2
+Software: Sublime Text, CodeKit
+
+
+What is this file?
+humanstxt.org
+
+================
+
+
+                    ++++++++          
+                 ++++++++++++         
+                +++++++++++++         
+                   .+++++++++         
+                    +++++++++         
+                    +++++++++         
+        ,+++++      +++++++++         
+     +++++++++++    +++++++++         
+    +++++++++++++   +++++++++         
+     ++++++++++++++ +++++++++         
+     ++++++++++++++++++++++++         
+     +++++++++++++++++++++++++        
+     +++++++++++++++++++++++++        
+     +++++++++++++++++++++++++        
+    ++++++++++++++++++++++++++        
+    +++++++++  +++++++++++++++        
+   +++++++++     +++++++++++++,       
+   ++++++         +++++++++++++       
+     +              +++++++++.        
+                     ++++++           
+                      .+~
+
+   WWW . STUDIO N CREATIONS . COM
