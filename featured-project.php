@@ -39,53 +39,53 @@
 	</div>
 </header>
 
-	<main class="container" id="featured">
-		<div class="sixteen columns">
-			<div class="page-title">
-				<h1>The Heights Home</h1>
-			</div>
+<main class="container" id="featured">
+	<div class="sixteen columns">
+		<div class="page-title">
+			<h1>The Heights Home</h1>
 		</div>
-		<div class="fourteen columns offset-by-one" id="mouse-swipe">
-			<div class="slider slider-for">
-				<div><img src="/img/feature/1.jpg"></div>
-				<div><img src="/img/feature/2.jpg"></div>
-				<div><img src="/img/feature/3.jpg"></div>
-				<div><img src="/img/feature/4.jpg"></div>
-				<div><img src="/img/feature/5.jpg"></div>
-				<div><img src="/img/feature/6.jpg"></div>
-				<div><img src="/img/feature/7.jpg"></div>
-				<div><img src="/img/feature/8.jpg"></div>
-				<div><img src="/img/feature/9.jpg"></div>
-			</div>
-			<div class="slider slider-nav">
-				<div><img src="/img/feature/mini/1.jpg"></div>
-				<div><img src="/img/feature/mini/2.jpg"></div>
-				<div><img src="/img/feature/mini/3.jpg"></div>
-				<div><img src="/img/feature/mini/4.jpg"></div>
-				<div><img src="/img/feature/mini/5.jpg"></div>
-				<div><img src="/img/feature/mini/6.jpg"></div>
-				<div><img src="/img/feature/mini/7.jpg"></div>
-				<div><img src="/img/feature/mini/8.jpg"></div>
-				<div><img src="/img/feature/mini/9.jpg"></div>
-			</div>
+	</div>
+	<div class="fourteen columns offset-by-one" id="mouse-swipe">
+		<div class="slider slider-for">
+			<div><img src="/img/feature/1.jpg"></div>
+			<div><img src="/img/feature/2.jpg"></div>
+			<div><img src="/img/feature/3.jpg"></div>
+			<div><img src="/img/feature/4.jpg"></div>
+			<div><img src="/img/feature/5.jpg"></div>
+			<div><img src="/img/feature/6.jpg"></div>
+			<div><img src="/img/feature/7.jpg"></div>
+			<div><img src="/img/feature/8.jpg"></div>
+			<div><img src="/img/feature/9.jpg"></div>
 		</div>
-		<div class="sixteen columns" id="touch-swipe">
-			<div class="slick-slider slides">
-				<div><img src="/img/feature/mini/1.jpg"></div>
-				<div><img src="/img/feature/mini/2.jpg"></div>
-				<div><img src="/img/feature/mini/3.jpg"></div>
-				<div><img src="/img/feature/mini/4.jpg"></div>
-				<div><img src="/img/feature/mini/5.jpg"></div>
-				<div><img src="/img/feature/mini/6.jpg"></div>
-				<div><img src="/img/feature/mini/7.jpg"></div>
-				<div><img src="/img/feature/mini/8.jpg"></div>
-				<div><img src="/img/feature/mini/9.jpg"></div>
-			</div>
+		<div class="slider slider-nav">
+			<div><img src="/img/feature/mini/1.jpg"></div>
+			<div><img src="/img/feature/mini/2.jpg"></div>
+			<div><img src="/img/feature/mini/3.jpg"></div>
+			<div><img src="/img/feature/mini/4.jpg"></div>
+			<div><img src="/img/feature/mini/5.jpg"></div>
+			<div><img src="/img/feature/mini/6.jpg"></div>
+			<div><img src="/img/feature/mini/7.jpg"></div>
+			<div><img src="/img/feature/mini/8.jpg"></div>
+			<div><img src="/img/feature/mini/9.jpg"></div>
 		</div>
-		<div class="sixteen columns gallery-return">
-			<h2><a href="/gallery.html">Return to Gallery</a></h2>
+	</div>
+	<div class="sixteen columns" id="touch-swipe">
+		<div class="slick-slider slides">
+			<div><img src="/img/feature/mini/1.jpg"></div>
+			<div><img src="/img/feature/mini/2.jpg"></div>
+			<div><img src="/img/feature/mini/3.jpg"></div>
+			<div><img src="/img/feature/mini/4.jpg"></div>
+			<div><img src="/img/feature/mini/5.jpg"></div>
+			<div><img src="/img/feature/mini/6.jpg"></div>
+			<div><img src="/img/feature/mini/7.jpg"></div>
+			<div><img src="/img/feature/mini/8.jpg"></div>
+			<div><img src="/img/feature/mini/9.jpg"></div>
 		</div>
-	</main>
+	</div>
+	<div class="sixteen columns gallery-return">
+		<h2><a href="/gallery.html">Return to Gallery</a></h2>
+	</div>
+</main>
 
 <footer>
 	<div class="container">
