@@ -30,39 +30,43 @@
 		</div>
 		<nav class="nine columns">
 	        <ul id="navlist" class="lavalamp">
-	            <li class="active"><a href="/">Home</a></li>
-	            <li><a href="/gallery">Gallery</a></li>
-	            <li><a href="/services">Services</a></li>
-	            <li><a href="/contact">Contact</a></li>
+	            <li><a href="/">Home</a></li>
+	            <li><a href="/gallery.html">Gallery</a></li>
+	            <li class="active"><a href="/services.html">Services</a></li>
+	            <li><a href="/contact.html">Contact</a></li>
 	        </ul>
 		</nav>
 	</div>
 </header>
 
-<main id="index" class="container">
-	<div id="slide-show" class="sixteen columns no-margin">
-		<div class="cycle-slideshow" data-cycle-speed="600">
-			<img src="/img/index/ss/1.jpg" alt="Zaraza Design" title="Zaraza Design" class="scale-with-grid">
-			<img src="/img/index/ss/2.jpg" alt="Zaraza Design" title="Zaraza Design" class="scale-with-grid">
-			<img src="/img/index/ss/3.jpg" alt="Zaraza Design" title="Zaraza Design" class="scale-with-grid">
-			<img src="/img/index/ss/4.jpg" alt="Zaraza Design" title="Zaraza Design" class="scale-with-grid">
-			<img src="/img/index/ss/5.jpg" alt="Zaraza Design" title="Zaraza Design" class="scale-with-grid">
+<main class="container">
+	<div class="services-container">
+		<div class="sixteen columns">
+		    <div class="services-header">
+				<h1>Services</h1>
+			</div>
 		</div>
-	</div>
-	<div id="welcome-text" class="sixteen columns">
-		<div id="text-container">
-        	<h1>Zaraza Design</h1>
-        	<p>Personalized Interior Design Services to Help Shape, Refine &amp; Realize Your Own Design Vision</p>
-    	</div>
-    </div>		
-	<div id="project-widget" class="eight columns no-margin">
-		<a href="/featured-project"><img src="/img/index/links/project-rectangle.jpg" class="scale-with-grid"></a>
-	</div>
-	<div id="services-widget" class="eight columns no-margin">
-		<a href="/services"><img src="/img/index/links/design-rectangle.jpg" class="scale-with-grid"></a>
+		<div class="sixteen columns">
+				<div class="services-text">
+					<p>Zaraza Design provides a variety of interior design services for its residential and commercial design clients.
+			        <br /><br />
+			        Working through a collaborative process with its clients, Zaraza Design provides personalized services to guide clients through each step of the interior design process.
+			        <br /><br />
+			        This design process includes :<br />
+					- Initial style and design consultation.<br />
+					- Selection of finishes, fabrics and furnishings.<br />
+					- Remodeling and layout consultation.<br />
+					- Project Management.<br />
+					- Installation.
+					<br /><br />
+					Throughout the interior design process, Zaraza Design works closely with its clients to assist them in refining and realizing their interior design vision.</p>
+				</div>
+		</div>
 	</div>
 </main>
 
+
+<div class="footer-content-height">
 <footer>
 	<div class="container">
 		<div id="sharing" class="four columns">
@@ -76,19 +80,11 @@
 		</div>
 	</div>
 </footer>
-
-
-
-
-
+</div>
 
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
-<script src="<?php autoVer('/js/index-min.js'); ?>"></script>
-
-
-
 </body>
 </html>
