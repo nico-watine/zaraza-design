@@ -23,6 +23,11 @@ footer {
 			li {
 				display: inline-block;
 				vertical-align: top;
+
+				img {
+					height: 42px;
+					width: 42px;
+				}
 			}
 		}
 	}
@@ -97,10 +102,15 @@ p#studio-n{
 	margin-top: 0 !important;
 
 	a {
+		text-decoration: none;
 		color: #ccc;
 
+		span {
+			text-decoration: underline;
+		}
+
 		&:hover {
-			text-decoration: none;
+			text-decoration: underline;
 		}
 	}
 }
