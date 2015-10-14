@@ -484,9 +484,11 @@ footer #copyright p { font-size: 14px; margin-top: 20px; margin-bottom: 0; color
 
 p#studio-n { font-size: 13px; color: #ccc; text-align: center; margin-top: 0 !important; }
 
-p#studio-n a { color: #ccc; }
+p#studio-n a { text-decoration: none; color: #ccc; }
 
-p#studio-n a:hover { text-decoration: none; }
+p#studio-n a span { text-decoration: underline; }
+
+p#studio-n a:hover { text-decoration: underline; }
 
 .align-center { text-align: center; }
 

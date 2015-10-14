@@ -31,9 +31,9 @@
 		<nav class="nine columns">
 	        <ul id="navlist" class="lavalamp">
 	            <li><a href="/">Home</a></li>
-	            <li class="active"><a href="/gallery.html">Gallery</a></li>
-	            <li><a href="/services.html">Services</a></li>
-	            <li><a href="/contact.html">Contact</a></li>
+	            <li class="active"><a href="/gallery/">Gallery</a></li>
+	            <li><a href="/services">Services</a></li>
+	            <li><a href="/contact">Contact</a></li>
 	        </ul>
 		</nav>
 	</div>
@@ -83,7 +83,7 @@
 		</div>
 	</div>
 	<div class="sixteen columns gallery-return">
-		<h2><a href="/gallery.html">Return to Gallery</a></h2>
+		<h2><a href="/gallery/">Return to Gallery</a></h2>
 	</div>
 </main>
 

@@ -5,19 +5,17 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<title>Welcome | Zaraza Design</title>
+	<title>Contact | Zaraza Design</title>
 	<meta name="description" content="This is the website of Houston-based interior designer Juliana Zaraza">
-	<link type="text/plain" rel="author" href="/humans.txt">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="author" href="/humans.txt">
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
-
 </head>
 <body>
 
@@ -31,9 +29,9 @@
 		<nav class="nine columns">
 	        <ul id="navlist" class="lavalamp">
 	            <li><a href="/">Home</a></li>
-	            <li><a href="/gallery.html">Gallery</a></li>
-	            <li><a href="/services.html">Services</a></li>
-	            <li class="active"><a href="/contact.html">Contact</a></li>
+	            <li><a href="/gallery/">Gallery</a></li>
+	            <li><a href="/services">Services</a></li>
+	            <li class="active"><a href="/contact">Contact</a></li>
 	        </ul>
 		</nav>
 	</div>
@@ -79,7 +77,7 @@
 		</div>
 		<div id="copyright" class="four columns offset-by-eight">
 			<p>&copy; Zaraza Design 2014</p>
-			<p id="studio-n">a <a href="http://studioncreations.com/" target="blank">studio n</a> creation</p>
+			<p id="studio-n"><a href="http://studioncreations.com/" target="blank">A <span>Studio N</span> Creation</a></p>
 		</div>
 	</div>
 </footer>

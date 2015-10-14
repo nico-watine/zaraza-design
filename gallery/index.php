@@ -5,12 +5,11 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<title>Welcome | Zaraza Design</title>
+	<title>Gallery | Zaraza Design</title>
 	<meta name="description" content="This is the website of Houston-based interior designer Juliana Zaraza">
-	<link type="text/plain" rel="author" href="/humans.txt">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="author" href="/humans.txt">
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
@@ -29,7 +28,6 @@
 	    visibility:visible;
 	    }    		
     </style>
-
 </head>
 <body>
 
@@ -43,9 +41,9 @@
 		<nav class="nine columns">
 	        <ul id="navlist" class="lavalamp">
 	            <li><a href="/">Home</a></li>
-	            <li class="active"><a href="/gallery.html">Gallery</a></li>
-	            <li><a href="/services.html">Services</a></li>
-	            <li><a href="/contact.html">Contact</a></li>
+	            <li class="active"><a href="/gallery/">Gallery</a></li>
+	            <li><a href="/services">Services</a></li>
+	            <li><a href="/contact">Contact</a></li>
 	        </ul>
 		</nav>
 	</div>
@@ -101,7 +99,7 @@
 			<div class="container container-featured-link">
 			<div class="nine columns featured-link-div offset-by-seven">
 				<h2 class="featured-link">featured project</h2>
-				<a href="/featured-project.html" class="featured-link"><h1 class="featured-link">The Heights Home</h1></a>
+				<a href="/gallery/featured-project" class="featured-link"><h1 class="featured-link">The Heights Home</h1></a>
 			</div>
 			</div>
 		</div>
