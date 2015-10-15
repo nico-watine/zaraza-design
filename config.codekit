@@ -90,11 +90,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/contact.php": {
+	"\/contact.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/contact.php",
+		"inputAbbreviatedPath": "\/contact.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -108,20 +108,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/gallery\/featured-project.php": {
+	"\/gallery\/featured-project.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gallery\/featured-project.php",
+		"inputAbbreviatedPath": "\/gallery\/featured-project.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/gallery\/index.php": {
+	"\/gallery\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gallery\/index.php",
+		"inputAbbreviatedPath": "\/gallery\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -940,11 +940,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index.php": {
+	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.php",
+		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1649,11 +1649,11 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/services.php": {
+	"\/services.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/services.php",
+		"inputAbbreviatedPath": "\/services.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
