@@ -410,6 +410,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/fulton\/slide-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177320,
+		"inputAbbreviatedPath": "\/img\/fulton\/slide-1.jpg",
+		"outputAbbreviatedPath": "\/img\/fulton\/slide-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fulton\/slide-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94101,
+		"inputAbbreviatedPath": "\/img\/fulton\/slide-2.jpg",
+		"outputAbbreviatedPath": "\/img\/fulton\/slide-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fulton\/slide-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98809,
+		"inputAbbreviatedPath": "\/img\/fulton\/slide-3.jpg",
+		"outputAbbreviatedPath": "\/img\/fulton\/slide-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fulton\/slide-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195286,
+		"inputAbbreviatedPath": "\/img\/fulton\/slide-4.jpg",
+		"outputAbbreviatedPath": "\/img\/fulton\/slide-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fulton\/slide-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68819,
+		"inputAbbreviatedPath": "\/img\/fulton\/slide-5.jpg",
+		"outputAbbreviatedPath": "\/img\/fulton\/slide-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fulton\/slide-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128465,
+		"inputAbbreviatedPath": "\/img\/fulton\/slide-6.jpg",
+		"outputAbbreviatedPath": "\/img\/fulton\/slide-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/gallery\/pics\/gallery(1).jpg": {
 		"fileType": 16384,
 		"ignore": 0,
