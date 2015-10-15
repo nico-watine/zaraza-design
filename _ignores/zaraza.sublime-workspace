@@ -152,10 +152,26 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/index.html",
+			"file": "/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/contact.php",
 			"settings":
 			{
-				"buffer_size": 3238,
+				"buffer_size": 3127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 315,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/scss/_normalize.scss",
+			"settings":
+			{
+				"buffer_size": 7785,
 				"line_ending": "Unix"
 			}
 		}
@@ -257,10 +273,35 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs"
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/scss"
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/js/nav-min.js",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/gallery/index.php",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/index.html",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/gallery.html",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/scss/_index.scss",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/scss/_footer.scss",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/contact.php",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/index.php",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/gallery/featured-project.php",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/services.php",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/featured-project.php",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/gallery.php",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/_gallery.html",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/js/src/gallery.js",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/featured-project.html",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/js/scripts.min.js",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/scss/style.scss",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/contact.html",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/services2.html",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/index2.html",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/js/src/index.js",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/js/src/nav.js",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/js/src/cycle.js",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/.htaccess",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_standard-article.scss",
@@ -364,35 +405,11 @@
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/var/strundefined.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/style-scoped.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/custom-protocol-handler.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-objectfit.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/test/basic.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/battery-api.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/css/app.css",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events-ie8.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/403.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/404.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/rem.min.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/README.md",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/rem.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_menu2.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/script-async.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/elem-ruby.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/403(new).html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/error.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/config.codekit",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/media/Modernizr 2 Logo.ai",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/var/slice.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/skrollr/examples/bg_constant_speed_less.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/menu-app.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/window-framed.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/audio-webaudio-api.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/dom-createElement-attrs.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-regions.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_sports-section.scss"
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-objectfit.js"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -407,6 +424,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"div",
+			"html",
+			".html",
+			"42",
+			".html",
+			"& ",
 			"blue-trees",
 			"body",
 			"//",
@@ -528,13 +551,7 @@
 			"div",
 			"h3",
 			"section",
-			"div",
-			"p",
-			"2px",
-			"3px",
-			"1px",
-			"2px",
-			"h2"
+			"div"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -542,6 +559,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"#call-to-action",
 			"http://cdn.houstonuncovered.com/houstonuncovered.com/img",
 			"thedeckonfountainview",
@@ -574,16 +592,104 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/index.html",
+					"file": "/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/contact.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3238,
+						"buffer_size": 3127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1597,
+								1597
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
 						"regions":
 						{
 						},
@@ -599,41 +705,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -644,19 +735,124 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/scss/_normalize.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
-								"bh_angle_content"
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
 							],
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -707,7 +903,7 @@
 	"project": "zaraza.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -717,8 +913,64 @@
 		"selected_items":
 		[
 			[
-				"in",
+				"gall",
+				"gallery/index.php"
+			],
+			[
+				"inh",
 				"index.html"
+			],
+			[
+				"in",
+				"scss/_index.scss"
+			],
+			[
+				"feat",
+				"gallery/featured-project.php"
+			],
+			[
+				"gallinde",
+				"gallery/index.php"
+			],
+			[
+				"conta",
+				"contact.php"
+			],
+			[
+				"ser",
+				"services.php"
+			],
+			[
+				"gal",
+				"gallery.html"
+			],
+			[
+				"inp",
+				"index.php"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"foo",
+				"scss/_footer.scss"
+			],
+			[
+				"nav",
+				"js/src/nav.js"
+			],
+			[
+				"navj",
+				"js/src/nav.js"
+			],
+			[
+				"cy",
+				"js/src/cycle.js"
+			],
+			[
+				".ht",
+				".htaccess"
 			],
 			[
 				"blu",
@@ -731,10 +983,6 @@
 			[
 				"reclsc",
 				"scss/pages/the-city/midtown/reclaimed-gas-station/_reclaimed-gas-station.scss"
-			],
-			[
-				"st",
-				"scss/style.scss"
 			],
 			[
 				"rec",
@@ -793,10 +1041,6 @@
 				"scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss"
 			],
 			[
-				"gal",
-				"scss/pages/article/standard/_gallery.scss"
-			],
-			[
 				"her",
 				"scss/pages/index/_hero.scss"
 			],
@@ -807,10 +1051,6 @@
 			[
 				"gris",
 				"assets/neat/_grid-settings.scss"
-			],
-			[
-				"nav",
-				"scss/blocks/_nav.scss"
 			],
 			[
 				"gals",
@@ -897,10 +1137,6 @@
 				"the-city/east-end/abandoned-east-end-warehouse.php"
 			],
 			[
-				".ht",
-				".htaccess"
-			],
-			[
 				"404",
 				"404.html"
 			],
@@ -911,10 +1147,6 @@
 			[
 				"sc",
 				"js/src/scripts.js"
-			],
-			[
-				"inh",
-				"index.html"
 			],
 			[
 				"hta",
@@ -1061,10 +1293,6 @@
 				"scss/_location.scss"
 			],
 			[
-				"foo",
-				"scss/_footer.scss"
-			],
-			[
 				"menuj",
 				"js/src/menu.js"
 			],
@@ -1195,38 +1423,6 @@
 			[
 				"sport",
 				"scss/_sports-section.scss"
-			],
-			[
-				"slog",
-				"scss/_slogan.scss"
-			],
-			[
-				"map",
-				"scss/_map.scss"
-			],
-			[
-				"ascs",
-				"scss/app.scss"
-			],
-			[
-				"po",
-				"portfolio.html"
-			],
-			[
-				"than",
-				"thanks.html"
-			],
-			[
-				"found",
-				"js/foundation.js"
-			],
-			[
-				"wha",
-				"services/what-we-do.html"
-			],
-			[
-				"con",
-				"contact.html"
 			]
 		],
 		"width": 0.0
@@ -1234,20 +1430,24 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "n",
+		"last_filter": "sn",
 		"selected_items":
 		[
+			[
+				"sn",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
 			[
 				"n",
 				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.static.sublime-project"
 			],
 			[
-				"hof",
-				"~/SNC Projects/Houston Oculofacial/Site Folder/hof.static/_ignores/hof.sublime-workspace"
+				"ne",
+				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
 			],
 			[
-				"sn",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+				"hof",
+				"~/SNC Projects/Houston Oculofacial/Site Folder/hof.static/_ignores/hof.sublime-workspace"
 			],
 			[
 				"bl",
@@ -1337,7 +1537,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 328.0,
+	"side_bar_width": 226.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
