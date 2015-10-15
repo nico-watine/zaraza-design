@@ -1352,15 +1352,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_base.scss": {
+	"\/scss\/blocks\/_footer.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_base.scss",
-		"outputAbbreviatedPath": "\/css\/_base.css",
+		"inputAbbreviatedPath": "\/scss\/blocks\/_footer.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_footer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1368,15 +1368,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_custom.scss": {
+	"\/scss\/blocks\/_header.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_custom.scss",
-		"outputAbbreviatedPath": "\/css\/_custom.css",
+		"inputAbbreviatedPath": "\/scss\/blocks\/_header.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_header.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1384,15 +1384,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_dev.scss": {
+	"\/scss\/components\/_fancybox.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_dev.scss",
-		"outputAbbreviatedPath": "\/css\/_dev.css",
+		"inputAbbreviatedPath": "\/scss\/components\/_fancybox.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_fancybox.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1400,15 +1400,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_fancybox.scss": {
+	"\/scss\/components\/_fonts.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_fancybox.scss",
-		"outputAbbreviatedPath": "\/css\/_fancybox.css",
+		"inputAbbreviatedPath": "\/scss\/components\/_fonts.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_fonts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1416,15 +1416,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_featured.scss": {
+	"\/scss\/components\/_slick-original.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_featured.scss",
-		"outputAbbreviatedPath": "\/css\/_featured.css",
+		"inputAbbreviatedPath": "\/scss\/components\/_slick-original.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_slick-original.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1432,15 +1432,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_fonts.scss": {
+	"\/scss\/components\/_slick-theme.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_fonts.scss",
-		"outputAbbreviatedPath": "\/css\/_fonts.css",
+		"inputAbbreviatedPath": "\/scss\/components\/_slick-theme.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_slick-theme.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1448,15 +1448,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_footer.scss": {
+	"\/scss\/components\/_slick.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_footer.scss",
-		"outputAbbreviatedPath": "\/css\/_footer.css",
+		"inputAbbreviatedPath": "\/scss\/components\/_slick.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_slick.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1464,15 +1464,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_header.scss": {
+	"\/scss\/pages\/_featured.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_header.scss",
-		"outputAbbreviatedPath": "\/css\/_header.css",
+		"inputAbbreviatedPath": "\/scss\/pages\/_featured.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_featured.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1480,15 +1480,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_index.scss": {
+	"\/scss\/pages\/_index.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_index.scss",
-		"outputAbbreviatedPath": "\/css\/_index.css",
+		"inputAbbreviatedPath": "\/scss\/pages\/_index.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1496,15 +1496,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_normalize.scss": {
+	"\/scss\/settings\/_dev.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_normalize.scss",
-		"outputAbbreviatedPath": "\/css\/_normalize.css",
+		"inputAbbreviatedPath": "\/scss\/settings\/_dev.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_dev.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1512,15 +1512,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_skeleton.scss": {
+	"\/scss\/settings\/_normalize.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_skeleton.scss",
-		"outputAbbreviatedPath": "\/css\/_skeleton.css",
+		"inputAbbreviatedPath": "\/scss\/settings\/_normalize.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_normalize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1528,15 +1528,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_slick-original.scss": {
+	"\/scss\/skeleton\/_base.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_slick-original.scss",
-		"outputAbbreviatedPath": "\/css\/_slick-original.css",
+		"inputAbbreviatedPath": "\/scss\/skeleton\/_base.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_base.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1544,15 +1544,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_slick-theme.scss": {
+	"\/scss\/skeleton\/_custom.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_slick-theme.scss",
-		"outputAbbreviatedPath": "\/css\/_slick-theme.css",
+		"inputAbbreviatedPath": "\/scss\/skeleton\/_custom.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_custom.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1560,15 +1560,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/_slick.scss": {
+	"\/scss\/skeleton\/_skeleton.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/_slick.scss",
-		"outputAbbreviatedPath": "\/css\/_slick.css",
+		"inputAbbreviatedPath": "\/scss\/skeleton\/_skeleton.scss",
+		"outputAbbreviatedPath": "\/scss\/css\/_skeleton.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

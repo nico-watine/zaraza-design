@@ -436,6 +436,53 @@ label span, legend span { font-weight: normal; font-size: 13px; color: #444; }
 
 h1, h2, h3, h4, h5, h6, p { font-family: 'novecento', sans-serif; }
 
+main#index { background: #fff; height: 890px; position: relative; top: 107px; border-top: 5px solid #777; }
+
+@media only screen and (max-width: 767px) { main#index { top: 247px; height: 650px; } }
+
+@media only screen and (min-width: 480px) and (max-width: 767px) { main#index { height: 750px; } }
+
+@media only screen and (min-width: 768px) and (max-width: 959px) { main#index { top: 132px; height: 770px; } }
+
+main#index #slide-show { width: 100%; }
+
+main#index #slide-show .cycle-slideshow { height: 100%; position: relative; top: 0; left: 0; overflow: hidden; }
+
+#welcome-text #text-container { width: 670px; height: 210px; margin: 0 auto; padding-top: 40px; text-align: center; background: url("/img/index/bg/ribbon.jpg") no-repeat; background-size: contain; background-position: center center; }
+
+#welcome-text #text-container h1 { font-size: 40px; }
+
+#welcome-text #text-container p { font-size: 30px; line-height: 38px; }
+
+@media only screen and (min-width: 768px) and (max-width: 959px) { #welcome-text #text-container { padding-top: 30px; } }
+
+@media only screen and (max-width: 767px) { #welcome-text #text-container { width: 100%; padding-top: 20px; }
+  #welcome-text #text-container p { padding-left: 10px; padding-right: 10px; font-size: 23px; line-height: 33px; } }
+
+#project-widget, #services-widget { height: 190px; }
+
+@media only screen and (max-width: 767px) { #project-widget, #services-widget { height: 119px; } }
+
+@media only screen and (min-width: 480px) and (max-width: 767px) { #project-widget, #services-widget { height: 166px; } }
+
+@media only screen and (min-width: 768px) and (max-width: 959px) { #project-widget, #services-widget { height: 157px; } }
+
+#project-widget { width: 480px; border-top: 3px solid #777; border-bottom: 3px solid #777; }
+
+@media only screen and (max-width: 767px) { #project-widget { width: 300px; } }
+
+@media only screen and (min-width: 480px) and (max-width: 767px) { #project-widget { width: 420px; } }
+
+@media only screen and (min-width: 768px) and (max-width: 959px) { #project-widget { width: 384px; } }
+
+#services-widget { border-left: 3px solid #777; border-top: 3px solid #777; border-bottom: 3px solid #777; width: 477px; }
+
+@media only screen and (max-width: 767px) { #services-widget { width: 300px; border-left: 0; border-top: 0; } }
+
+@media only screen and (min-width: 480px) and (max-width: 767px) { #services-widget { width: 420px; } }
+
+@media only screen and (min-width: 768px) and (max-width: 959px) { #services-widget { width: 381px; } }
+
 header { background: white; height: 100px; width: 100%; position: absolute; z-index: 999; top: 0; border-top: 7px solid #405464; }
 
 @media only screen and (min-width: 768px) and (max-width: 959px) { header { height: 125px; } }
@@ -493,53 +540,6 @@ p#studio-n a:hover { text-decoration: underline; }
 .align-center { text-align: center; }
 
 .gallery-title h1 { font-size: 75px; margin-top: 40px; margin-bottom: 40px; margin-left: 20px; }
-
-main#index { background: #fff; height: 890px; position: relative; top: 107px; border-top: 5px solid #777; }
-
-@media only screen and (max-width: 767px) { main#index { top: 247px; height: 650px; } }
-
-@media only screen and (min-width: 480px) and (max-width: 767px) { main#index { height: 750px; } }
-
-@media only screen and (min-width: 768px) and (max-width: 959px) { main#index { top: 132px; height: 770px; } }
-
-main#index #slide-show { width: 100%; }
-
-main#index #slide-show .cycle-slideshow { height: 100%; position: relative; top: 0; left: 0; overflow: hidden; }
-
-#welcome-text #text-container { width: 670px; height: 210px; margin: 0 auto; padding-top: 40px; text-align: center; background: url("/img/index/bg/ribbon.jpg") no-repeat; background-size: contain; background-position: center center; }
-
-#welcome-text #text-container h1 { font-size: 40px; }
-
-#welcome-text #text-container p { font-size: 30px; line-height: 38px; }
-
-@media only screen and (min-width: 768px) and (max-width: 959px) { #welcome-text #text-container { padding-top: 30px; } }
-
-@media only screen and (max-width: 767px) { #welcome-text #text-container { width: 100%; padding-top: 20px; }
-  #welcome-text #text-container p { padding-left: 10px; padding-right: 10px; font-size: 23px; line-height: 33px; } }
-
-#project-widget, #services-widget { height: 190px; }
-
-@media only screen and (max-width: 767px) { #project-widget, #services-widget { height: 119px; } }
-
-@media only screen and (min-width: 480px) and (max-width: 767px) { #project-widget, #services-widget { height: 166px; } }
-
-@media only screen and (min-width: 768px) and (max-width: 959px) { #project-widget, #services-widget { height: 157px; } }
-
-#project-widget { width: 480px; border-top: 3px solid #777; border-bottom: 3px solid #777; }
-
-@media only screen and (max-width: 767px) { #project-widget { width: 300px; } }
-
-@media only screen and (min-width: 480px) and (max-width: 767px) { #project-widget { width: 420px; } }
-
-@media only screen and (min-width: 768px) and (max-width: 959px) { #project-widget { width: 384px; } }
-
-#services-widget { border-left: 3px solid #777; border-top: 3px solid #777; border-bottom: 3px solid #777; width: 477px; }
-
-@media only screen and (max-width: 767px) { #services-widget { width: 300px; border-left: 0; border-top: 0; } }
-
-@media only screen and (min-width: 480px) and (max-width: 767px) { #services-widget { width: 420px; } }
-
-@media only screen and (min-width: 768px) and (max-width: 959px) { #services-widget { width: 381px; } }
 
 /* #Media Queries
 ================================================== */
