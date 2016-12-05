@@ -6,5 +6,8 @@
   ],
   "description": "www.zaraza-design.com project repo",
   "main": "index.html",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "normalize-css": "^5.0.0"
+  }
 }
