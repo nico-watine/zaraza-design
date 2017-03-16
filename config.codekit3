@@ -7,7 +7,7 @@
 		"uuidString": "AB2B63AD-92D9-4BB2-92BE-7A6E167B182B"
 		}
 	],
-"creatorBuild": "25444",
+"creatorBuild": "25704",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -36,66 +36,82 @@
 	"\/apple-touch-icon-114x114-precomposed.png": {
 		"ft": 32768,
 		"iS": 4437,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-114x114-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
 		"iS": 4437,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/apple-touch-icon-144x144-precomposed.png": {
 		"ft": 32768,
 		"iS": 5702,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-144x144-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/apple-touch-icon-152x152-precomposed.png": {
 		"ft": 32768,
 		"iS": 5773,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/apple-touch-icon-180x180-precomposed.png": {
 		"ft": 32768,
 		"iS": 7165,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-180x180-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/apple-touch-icon-72x72-precomposed.png": {
 		"ft": 32768,
 		"iS": 2751,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-72x72-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/apple-touch-icon-76x76-precomposed.png": {
 		"ft": 32768,
 		"iS": 2927,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-76x76-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 5702,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/bower.json": {
 		"ft": 524288,
@@ -269,15 +285,18 @@
 		"oA": 0,
 		"oAP": "\/img\/contact\/contact-bg2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/contact\/juliana.png": {
 		"ft": 32768,
 		"iS": 26990,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/contact\/juliana.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fancybox\/blank.gif": {
 		"ft": 4194304,
@@ -306,26 +325,32 @@
 	"\/img\/fancybox\/fancybox_overlay.png": {
 		"ft": 32768,
 		"iS": 1003,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/fancybox\/fancybox_overlay.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fancybox\/fancybox_sprite.png": {
 		"ft": 32768,
 		"iS": 1362,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/fancybox\/fancybox_sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fancybox\/fancybox_sprite@2x.png": {
 		"ft": 32768,
 		"iS": 6553,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/fancybox\/fancybox_sprite@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/1.jpg": {
 		"ft": 16384,
@@ -333,7 +358,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/2.jpg": {
 		"ft": 16384,
@@ -341,7 +367,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/3.jpg": {
 		"ft": 16384,
@@ -349,7 +376,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/4.jpg": {
 		"ft": 16384,
@@ -357,7 +385,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/5.jpg": {
 		"ft": 16384,
@@ -365,7 +394,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/6.jpg": {
 		"ft": 16384,
@@ -373,7 +403,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/7.jpg": {
 		"ft": 16384,
@@ -381,7 +412,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/7.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/8.jpg": {
 		"ft": 16384,
@@ -389,7 +421,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/8.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/9.jpg": {
 		"ft": 16384,
@@ -397,7 +430,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/9.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/1.jpg": {
 		"ft": 16384,
@@ -405,7 +439,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/2.jpg": {
 		"ft": 16384,
@@ -413,7 +448,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/3.jpg": {
 		"ft": 16384,
@@ -421,7 +457,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/4.jpg": {
 		"ft": 16384,
@@ -429,7 +466,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/5.jpg": {
 		"ft": 16384,
@@ -437,7 +475,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/6.jpg": {
 		"ft": 16384,
@@ -445,7 +484,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/7.jpg": {
 		"ft": 16384,
@@ -453,7 +493,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/7.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/8.jpg": {
 		"ft": 16384,
@@ -461,7 +502,8 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/8.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/feature\/mini\/9.jpg": {
 		"ft": 16384,
@@ -469,23 +511,28 @@
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/9.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/footer\/social\/pinterest.png": {
 		"ft": 32768,
 		"iS": 2798,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/footer\/social\/pinterest.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/footer\/social\/twitter.png": {
 		"ft": 32768,
 		"iS": 1794,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/footer\/social\/twitter.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fulton\/slide-1.jpg": {
 		"ft": 16384,
@@ -493,7 +540,8 @@
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fulton\/slide-2.jpg": {
 		"ft": 16384,
@@ -501,7 +549,8 @@
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fulton\/slide-3.jpg": {
 		"ft": 16384,
@@ -509,7 +558,8 @@
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fulton\/slide-4.jpg": {
 		"ft": 16384,
@@ -517,7 +567,8 @@
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fulton\/slide-5.jpg": {
 		"ft": 16384,
@@ -525,7 +576,8 @@
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/fulton\/slide-6.jpg": {
 		"ft": 16384,
@@ -533,7 +585,8 @@
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(1).jpg": {
 		"ft": 16384,
@@ -541,7 +594,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(1).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(10).jpg": {
 		"ft": 16384,
@@ -549,7 +603,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(10).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(11).jpg": {
 		"ft": 16384,
@@ -557,7 +612,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(11).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(12).jpg": {
 		"ft": 16384,
@@ -565,7 +621,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(12).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(13).jpg": {
 		"ft": 16384,
@@ -573,7 +630,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(13).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(14).jpg": {
 		"ft": 16384,
@@ -581,7 +639,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(14).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(15).jpg": {
 		"ft": 16384,
@@ -589,7 +648,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(15).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(2).jpg": {
 		"ft": 16384,
@@ -597,7 +657,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(2).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(3).jpg": {
 		"ft": 16384,
@@ -605,7 +666,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(3).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(4).jpg": {
 		"ft": 16384,
@@ -613,7 +675,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(4).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(5).jpg": {
 		"ft": 16384,
@@ -621,7 +684,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(5).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(6).jpg": {
 		"ft": 16384,
@@ -629,7 +693,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(6).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(7).jpg": {
 		"ft": 16384,
@@ -637,7 +702,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(7).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(8).jpg": {
 		"ft": 16384,
@@ -645,7 +711,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(8).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/pics\/gallery(9).jpg": {
 		"ft": 16384,
@@ -653,7 +720,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(9).jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(1)t.jpg": {
 		"ft": 16384,
@@ -661,7 +729,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(1)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(10)t.jpg": {
 		"ft": 16384,
@@ -669,7 +738,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(10)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(11)t.jpg": {
 		"ft": 16384,
@@ -677,7 +747,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(11)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(12)t.jpg": {
 		"ft": 16384,
@@ -685,7 +756,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(12)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(13)t.jpg": {
 		"ft": 16384,
@@ -693,7 +765,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(13)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(14)t.jpg": {
 		"ft": 16384,
@@ -701,7 +774,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(14)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(15)t.jpg": {
 		"ft": 16384,
@@ -709,7 +783,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(15)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(2)t.jpg": {
 		"ft": 16384,
@@ -717,7 +792,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(2)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(3)t.jpg": {
 		"ft": 16384,
@@ -725,7 +801,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(3)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(4)t.jpg": {
 		"ft": 16384,
@@ -733,7 +810,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(4)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(5)t.jpg": {
 		"ft": 16384,
@@ -741,7 +819,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(5)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(6)t.jpg": {
 		"ft": 16384,
@@ -749,7 +828,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(6)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(7)t.jpg": {
 		"ft": 16384,
@@ -757,7 +837,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(7)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(8)t.jpg": {
 		"ft": 16384,
@@ -765,7 +846,8 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(8)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/gallery\/thumbs\/gallery(9)t.jpg": {
 		"ft": 16384,
@@ -773,23 +855,28 @@
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(9)t.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bg\/curly-320.png": {
 		"ft": 32768,
 		"iS": 5327,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/bg\/curly-320.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bg\/curly-320@2x.png": {
 		"ft": 32768,
 		"iS": 10836,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/bg\/curly-320@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bg\/ribbon.jpg": {
 		"ft": 16384,
@@ -797,7 +884,8 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/bg\/ribbon.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/links\/design-rectangle.jpg": {
 		"ft": 16384,
@@ -805,7 +893,8 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/links\/design-rectangle.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/links\/project-rectangle.jpg": {
 		"ft": 16384,
@@ -813,7 +902,8 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/links\/project-rectangle.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/ss\/1.jpg": {
 		"ft": 16384,
@@ -821,7 +911,8 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/ss\/2.jpg": {
 		"ft": 16384,
@@ -829,7 +920,8 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/ss\/3.jpg": {
 		"ft": 16384,
@@ -837,7 +929,8 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/ss\/4.jpg": {
 		"ft": 16384,
@@ -845,7 +938,8 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/ss\/5.jpg": {
 		"ft": 16384,
@@ -853,7 +947,8 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/loader\/loader.GIF": {
 		"ft": 4194304,
@@ -866,10 +961,12 @@
 	"\/img\/logo\/logo.png": {
 		"ft": 32768,
 		"iS": 8601,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/logo\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/services\/services-bg.jpg": {
 		"ft": 16384,
@@ -877,7 +974,8 @@
 		"oA": 0,
 		"oAP": "\/img\/services\/services-bg.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/services\/services-bg@m.jpg": {
 		"ft": 16384,
@@ -885,7 +983,8 @@
 		"oA": 0,
 		"oAP": "\/img\/services\/services-bg@m.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/slick\/loader.gif": {
 		"ft": 4194304,
@@ -1115,10 +1214,12 @@
 	"\/qr\/_ignores\/css\/images\/bg.png": {
 		"ft": 32768,
 		"iS": 10120,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/qr\/_ignores\/css\/images\/bg.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/qr\/_ignores\/css\/images\/ie9\/_notes\/dwsync.xml": {
 		"ft": 8192,
@@ -1357,18 +1458,22 @@
 	"\/qr\/img\/juliana-zaraza.png": {
 		"ft": 32768,
 		"iS": 231103,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/qr\/img\/juliana-zaraza.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/qr\/img\/zaraza-design-logo.png": {
 		"ft": 32768,
 		"iS": 19185,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/qr\/img\/zaraza-design-logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/qr\/julianazaraza.vcf": {
 		"ft": 8192,
@@ -1772,10 +1877,12 @@
 	"\/touch-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 7692,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/touch-icon-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		}
 	},
 "hooks": [
@@ -2272,6 +2379,10 @@
 			"active": 0,
 			"optionString": "{'properties': 'always'}"
 			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
 		"class-methods-use-this": {
 			"active": 0,
 			"optionString": "{'exceptMethods': []}"
@@ -2436,6 +2547,10 @@
 			"active": 0,
 			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
 			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -2468,6 +2583,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -2486,6 +2605,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -2688,6 +2811,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -2799,6 +2926,10 @@
 		"no-return-assign": {
 			"active": 0,
 			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-script-url": {
 			"active": 0,
@@ -2960,6 +3091,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -3004,9 +3139,17 @@
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
 			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -3031,6 +3174,10 @@
 		"radix": {
 			"active": 0,
 			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-jsdoc": {
 			"active": 0,
@@ -3097,6 +3244,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -3543,7 +3694,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -3636,7 +3788,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -3864,6 +4018,10 @@
 			},
 		"space-colon": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {
