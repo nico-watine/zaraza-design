@@ -233,6 +233,44 @@
 		"oAP": "\/fonts\/novecento\/novecento.woff",
 		"oF": 0
 		},
+	"\/fonts\/novecento\/wide-book\/font.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/novecento\/wide-book\/font-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/fonts\/novecento\/wide-book\/novecento.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/novecento\/wide-book\/novecento.eot",
+		"oF": 0
+		},
+	"\/fonts\/novecento\/wide-book\/novecento.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/novecento\/wide-book\/novecento.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/novecento\/wide-book\/novecento.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/novecento\/wide-book\/novecento.ttf",
+		"oF": 0
+		},
+	"\/fonts\/novecento\/wide-book\/novecento.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/novecento\/wide-book\/novecento.woff",
+		"oF": 0
+		},
 	"\/fonts\/slick\/slick.eot": {
 		"ft": 8192,
 		"oA": 2,
