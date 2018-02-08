@@ -7,27 +7,31 @@
 		"uuidString": "AB2B63AD-92D9-4BB2-92BE-7A6E167B182B"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26261",
 "files": {
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/.htaccess": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
 	"\/_ignores\/zaraza-design.sublime-project": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/zaraza-design.sublime-project",
 		"oF": 0
 		},
 	"\/_ignores\/zaraza-design.sublime-workspace": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/zaraza-design.sublime-workspace",
@@ -138,18 +142,21 @@
 		"oS": 1
 		},
 	"\/bower_components\/normalize-css\/.editorconfig": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.editorconfig",
 		"oF": 0
 		},
 	"\/bower_components\/normalize-css\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.gitignore",
 		"oF": 0
 		},
 	"\/bower_components\/normalize-css\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.travis.yml",
@@ -164,10 +171,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/normalize-css\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -192,6 +199,7 @@
 		"oS": 0
 		},
 	"\/contact.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/contact.html",
@@ -208,12 +216,14 @@
 		"oS": 0
 		},
 	"\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
 	"\/fonts\/novecento\/novecento.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/novecento\/novecento.eot",
@@ -230,12 +240,14 @@
 		"prP": 0
 		},
 	"\/fonts\/novecento\/novecento.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/novecento\/novecento.ttf",
 		"oF": 0
 		},
 	"\/fonts\/novecento\/novecento.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/novecento\/novecento.woff",
@@ -252,6 +264,7 @@
 		"oS": 0
 		},
 	"\/fonts\/novecento\/wide-book\/novecento.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/novecento\/wide-book\/novecento.eot",
@@ -268,18 +281,21 @@
 		"prP": 0
 		},
 	"\/fonts\/novecento\/wide-book\/novecento.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/novecento\/wide-book\/novecento.ttf",
 		"oF": 0
 		},
 	"\/fonts\/novecento\/wide-book\/novecento.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/novecento\/wide-book\/novecento.woff",
 		"oF": 0
 		},
 	"\/fonts\/slick\/slick.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/slick\/slick.eot",
@@ -296,30 +312,35 @@
 		"prP": 0
 		},
 	"\/fonts\/slick\/slick.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/slick\/slick.ttf",
 		"oF": 0
 		},
 	"\/fonts\/slick\/slick.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/slick\/slick.woff",
 		"oF": 0
 		},
 	"\/gallery\/featured-project.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/gallery\/featured-project.html",
 		"oF": 0
 		},
 	"\/gallery\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/gallery\/index.html",
 		"oF": 0
 		},
 	"\/humans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/humans.txt",
@@ -1115,6 +1136,7 @@
 		"opt": 0
 		},
 	"\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.html",
@@ -1251,30 +1273,35 @@
 		"tS": 0
 		},
 	"\/php\/autoVer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/php\/autoVer.php",
 		"oF": 0
 		},
 	"\/qr\/_ignores\/_notes\/dwsync.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/_notes\/dwsync.xml",
 		"oF": 0
 		},
 	"\/qr\/_ignores\/css\/_notes\/dwsync.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/css\/_notes\/dwsync.xml",
 		"oF": 0
 		},
 	"\/qr\/_ignores\/css\/font\/_notes\/dwsync.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/css\/font\/_notes\/dwsync.xml",
 		"oF": 0
 		},
 	"\/qr\/_ignores\/css\/font\/fontawesome-webfont.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/css\/font\/fontawesome-webfont.eot",
@@ -1291,18 +1318,21 @@
 		"prP": 0
 		},
 	"\/qr\/_ignores\/css\/font\/fontawesome-webfont.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/css\/font\/fontawesome-webfont.ttf",
 		"oF": 0
 		},
 	"\/qr\/_ignores\/css\/font\/fontawesome-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/css\/font\/fontawesome-webfont.woff",
 		"oF": 0
 		},
 	"\/qr\/_ignores\/css\/font\/FontAwesome.otf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/css\/font\/FontAwesome.otf",
@@ -1339,6 +1369,7 @@
 		"oS": 0
 		},
 	"\/qr\/_ignores\/css\/images\/_notes\/dwsync.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/css\/images\/_notes\/dwsync.xml",
@@ -1356,6 +1387,7 @@
 		"q": 100
 		},
 	"\/qr\/_ignores\/css\/images\/ie9\/_notes\/dwsync.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/css\/images\/ie9\/_notes\/dwsync.xml",
@@ -1462,6 +1494,7 @@
 		"oS": 0
 		},
 	"\/qr\/_ignores\/js\/_notes\/dwsync.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/js\/_notes\/dwsync.xml",
@@ -1508,12 +1541,14 @@
 		"tS": 0
 		},
 	"\/qr\/_ignores\/julianazaraza.vcf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/_ignores\/julianazaraza.vcf",
 		"oF": 0
 		},
 	"\/qr\/_ignores\/mobile.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/qr\/_ignores\/mobile.html",
@@ -1560,6 +1595,7 @@
 		"oS": 0
 		},
 	"\/qr\/fonts\/novecento\/novecento.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/fonts\/novecento\/novecento.eot",
@@ -1576,18 +1612,21 @@
 		"prP": 0
 		},
 	"\/qr\/fonts\/novecento\/novecento.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/fonts\/novecento\/novecento.ttf",
 		"oF": 0
 		},
 	"\/qr\/fonts\/novecento\/novecento.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/fonts\/novecento\/novecento.woff",
 		"oF": 0
 		},
 	"\/qr\/img\/_notes\/dwsync.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/img\/_notes\/dwsync.xml",
@@ -1616,120 +1655,140 @@
 		"q": 100
 		},
 	"\/qr\/julianazaraza.vcf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/julianazaraza.vcf",
 		"oF": 0
 		},
 	"\/qr\/mobile-temp.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/qr\/mobile-temp.html",
 		"oF": 0
 		},
 	"\/qr\/mobile.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/qr\/mobile.html",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_base.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_base.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_content.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_content.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_custom.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_custom.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_dev.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_dev.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_fonts.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_fonts.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_footer.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_footer.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_header.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_header.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_main.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_main.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_normalize.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_normalize.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_old-qr-style.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_old-qr-style.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_qr-style.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_qr-style.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_qr-styles.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_qr-styles.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_qr.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_qr.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_skeleton.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_skeleton.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_typography.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/_typography.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/qr-style.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/qr-style.scssc",
 		"oF": 0
 		},
 	"\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/qr.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/qr\/scss\/.sass-cache\/6a85f59fa7f485788289fa49316aeac198b401f7\/qr.scssc",
@@ -2009,6 +2068,7 @@
 		"uL": 1
 		},
 	"\/services.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/services.html",
@@ -2612,6 +2672,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -2643,6 +2707,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -2676,9 +2744,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -2708,6 +2776,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -2717,14 +2789,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3828,7 +3892,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -3861,6 +3926,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3902,7 +3968,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -3934,13 +4001,13 @@
 		"enableFootnotes": 0,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3949,7 +4016,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3969,7 +4037,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3997,7 +4066,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
