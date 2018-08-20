@@ -7,7 +7,7 @@
 		"uuidString": "AB2B63AD-92D9-4BB2-92BE-7A6E167B182B"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -132,71 +132,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/bower_components\/normalize-css\/.bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/normalize-css\/.bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/normalize-css\/.editorconfig": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/normalize-css\/.editorconfig",
-		"oF": 0
-		},
-	"\/bower_components\/normalize-css\/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/normalize-css\/.gitignore",
-		"oF": 0
-		},
-	"\/bower_components\/normalize-css\/.travis.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/normalize-css\/.travis.yml",
-		"oF": 0
-		},
-	"\/bower_components\/normalize-css\/bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/normalize-css\/bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/normalize-css\/LICENSE.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 0,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/normalize-css\/LICENSE.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/normalize-css\/normalize.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/normalize-css\/normalize.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/contact.html": {
 		"cB": 0,
@@ -349,6 +284,7 @@
 	"\/img\/contact\/contact-bg2.jpg": {
 		"ft": 16384,
 		"iS": 32742,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/contact\/contact-bg2.jpg",
 		"oF": 0,
@@ -427,6 +363,7 @@
 	"\/img\/feature\/1.jpg": {
 		"ft": 16384,
 		"iS": 153098,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/1.jpg",
 		"oF": 0,
@@ -437,6 +374,7 @@
 	"\/img\/feature\/2.jpg": {
 		"ft": 16384,
 		"iS": 73458,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/2.jpg",
 		"oF": 0,
@@ -447,6 +385,7 @@
 	"\/img\/feature\/3.jpg": {
 		"ft": 16384,
 		"iS": 80047,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/3.jpg",
 		"oF": 0,
@@ -457,6 +396,7 @@
 	"\/img\/feature\/4.jpg": {
 		"ft": 16384,
 		"iS": 84124,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/4.jpg",
 		"oF": 0,
@@ -467,6 +407,7 @@
 	"\/img\/feature\/5.jpg": {
 		"ft": 16384,
 		"iS": 66716,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/5.jpg",
 		"oF": 0,
@@ -477,6 +418,7 @@
 	"\/img\/feature\/6.jpg": {
 		"ft": 16384,
 		"iS": 69898,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/6.jpg",
 		"oF": 0,
@@ -487,6 +429,7 @@
 	"\/img\/feature\/7.jpg": {
 		"ft": 16384,
 		"iS": 74048,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/7.jpg",
 		"oF": 0,
@@ -497,6 +440,7 @@
 	"\/img\/feature\/8.jpg": {
 		"ft": 16384,
 		"iS": 67377,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/8.jpg",
 		"oF": 0,
@@ -507,6 +451,7 @@
 	"\/img\/feature\/9.jpg": {
 		"ft": 16384,
 		"iS": 72848,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/9.jpg",
 		"oF": 0,
@@ -517,6 +462,7 @@
 	"\/img\/feature\/mini\/1.jpg": {
 		"ft": 16384,
 		"iS": 44954,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/1.jpg",
 		"oF": 0,
@@ -527,6 +473,7 @@
 	"\/img\/feature\/mini\/2.jpg": {
 		"ft": 16384,
 		"iS": 29042,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/2.jpg",
 		"oF": 0,
@@ -537,6 +484,7 @@
 	"\/img\/feature\/mini\/3.jpg": {
 		"ft": 16384,
 		"iS": 31027,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/3.jpg",
 		"oF": 0,
@@ -547,6 +495,7 @@
 	"\/img\/feature\/mini\/4.jpg": {
 		"ft": 16384,
 		"iS": 31971,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/4.jpg",
 		"oF": 0,
@@ -557,6 +506,7 @@
 	"\/img\/feature\/mini\/5.jpg": {
 		"ft": 16384,
 		"iS": 25826,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/5.jpg",
 		"oF": 0,
@@ -567,6 +517,7 @@
 	"\/img\/feature\/mini\/6.jpg": {
 		"ft": 16384,
 		"iS": 30327,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/6.jpg",
 		"oF": 0,
@@ -577,6 +528,7 @@
 	"\/img\/feature\/mini\/7.jpg": {
 		"ft": 16384,
 		"iS": 32150,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/7.jpg",
 		"oF": 0,
@@ -587,6 +539,7 @@
 	"\/img\/feature\/mini\/8.jpg": {
 		"ft": 16384,
 		"iS": 27867,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/8.jpg",
 		"oF": 0,
@@ -597,6 +550,7 @@
 	"\/img\/feature\/mini\/9.jpg": {
 		"ft": 16384,
 		"iS": 29431,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/feature\/mini\/9.jpg",
 		"oF": 0,
@@ -629,6 +583,7 @@
 	"\/img\/fulton\/slide-1.jpg": {
 		"ft": 16384,
 		"iS": 177320,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-1.jpg",
 		"oF": 0,
@@ -639,6 +594,7 @@
 	"\/img\/fulton\/slide-2.jpg": {
 		"ft": 16384,
 		"iS": 94101,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-2.jpg",
 		"oF": 0,
@@ -649,6 +605,7 @@
 	"\/img\/fulton\/slide-3.jpg": {
 		"ft": 16384,
 		"iS": 98809,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-3.jpg",
 		"oF": 0,
@@ -659,6 +616,7 @@
 	"\/img\/fulton\/slide-4.jpg": {
 		"ft": 16384,
 		"iS": 195286,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-4.jpg",
 		"oF": 0,
@@ -669,6 +627,7 @@
 	"\/img\/fulton\/slide-5.jpg": {
 		"ft": 16384,
 		"iS": 68819,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-5.jpg",
 		"oF": 0,
@@ -679,6 +638,7 @@
 	"\/img\/fulton\/slide-6.jpg": {
 		"ft": 16384,
 		"iS": 128465,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/fulton\/slide-6.jpg",
 		"oF": 0,
@@ -689,6 +649,7 @@
 	"\/img\/gallery\/pics\/gallery(1).jpg": {
 		"ft": 16384,
 		"iS": 195859,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(1).jpg",
 		"oF": 0,
@@ -699,6 +660,7 @@
 	"\/img\/gallery\/pics\/gallery(10).jpg": {
 		"ft": 16384,
 		"iS": 175893,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(10).jpg",
 		"oF": 0,
@@ -709,6 +671,7 @@
 	"\/img\/gallery\/pics\/gallery(11).jpg": {
 		"ft": 16384,
 		"iS": 221154,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(11).jpg",
 		"oF": 0,
@@ -719,6 +682,7 @@
 	"\/img\/gallery\/pics\/gallery(12).jpg": {
 		"ft": 16384,
 		"iS": 170196,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(12).jpg",
 		"oF": 0,
@@ -729,6 +693,7 @@
 	"\/img\/gallery\/pics\/gallery(13).jpg": {
 		"ft": 16384,
 		"iS": 126500,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(13).jpg",
 		"oF": 0,
@@ -739,6 +704,7 @@
 	"\/img\/gallery\/pics\/gallery(14).jpg": {
 		"ft": 16384,
 		"iS": 74048,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(14).jpg",
 		"oF": 0,
@@ -749,6 +715,7 @@
 	"\/img\/gallery\/pics\/gallery(15).jpg": {
 		"ft": 16384,
 		"iS": 67377,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(15).jpg",
 		"oF": 0,
@@ -759,6 +726,7 @@
 	"\/img\/gallery\/pics\/gallery(2).jpg": {
 		"ft": 16384,
 		"iS": 198188,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(2).jpg",
 		"oF": 0,
@@ -769,6 +737,7 @@
 	"\/img\/gallery\/pics\/gallery(3).jpg": {
 		"ft": 16384,
 		"iS": 200839,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(3).jpg",
 		"oF": 0,
@@ -779,6 +748,7 @@
 	"\/img\/gallery\/pics\/gallery(4).jpg": {
 		"ft": 16384,
 		"iS": 133920,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(4).jpg",
 		"oF": 0,
@@ -789,6 +759,7 @@
 	"\/img\/gallery\/pics\/gallery(5).jpg": {
 		"ft": 16384,
 		"iS": 170007,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(5).jpg",
 		"oF": 0,
@@ -799,6 +770,7 @@
 	"\/img\/gallery\/pics\/gallery(6).jpg": {
 		"ft": 16384,
 		"iS": 115468,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(6).jpg",
 		"oF": 0,
@@ -809,6 +781,7 @@
 	"\/img\/gallery\/pics\/gallery(7).jpg": {
 		"ft": 16384,
 		"iS": 210078,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(7).jpg",
 		"oF": 0,
@@ -819,6 +792,7 @@
 	"\/img\/gallery\/pics\/gallery(8).jpg": {
 		"ft": 16384,
 		"iS": 208375,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(8).jpg",
 		"oF": 0,
@@ -829,6 +803,7 @@
 	"\/img\/gallery\/pics\/gallery(9).jpg": {
 		"ft": 16384,
 		"iS": 134009,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/pics\/gallery(9).jpg",
 		"oF": 0,
@@ -839,6 +814,7 @@
 	"\/img\/gallery\/thumbs\/gallery(1)t.jpg": {
 		"ft": 16384,
 		"iS": 16107,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(1)t.jpg",
 		"oF": 0,
@@ -849,6 +825,7 @@
 	"\/img\/gallery\/thumbs\/gallery(10)t.jpg": {
 		"ft": 16384,
 		"iS": 14424,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(10)t.jpg",
 		"oF": 0,
@@ -859,6 +836,7 @@
 	"\/img\/gallery\/thumbs\/gallery(11)t.jpg": {
 		"ft": 16384,
 		"iS": 14337,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(11)t.jpg",
 		"oF": 0,
@@ -869,6 +847,7 @@
 	"\/img\/gallery\/thumbs\/gallery(12)t.jpg": {
 		"ft": 16384,
 		"iS": 13935,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(12)t.jpg",
 		"oF": 0,
@@ -879,6 +858,7 @@
 	"\/img\/gallery\/thumbs\/gallery(13)t.jpg": {
 		"ft": 16384,
 		"iS": 13414,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(13)t.jpg",
 		"oF": 0,
@@ -889,6 +869,7 @@
 	"\/img\/gallery\/thumbs\/gallery(14)t.jpg": {
 		"ft": 16384,
 		"iS": 28319,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(14)t.jpg",
 		"oF": 0,
@@ -899,6 +880,7 @@
 	"\/img\/gallery\/thumbs\/gallery(15)t.jpg": {
 		"ft": 16384,
 		"iS": 24413,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(15)t.jpg",
 		"oF": 0,
@@ -909,6 +891,7 @@
 	"\/img\/gallery\/thumbs\/gallery(2)t.jpg": {
 		"ft": 16384,
 		"iS": 14460,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(2)t.jpg",
 		"oF": 0,
@@ -919,6 +902,7 @@
 	"\/img\/gallery\/thumbs\/gallery(3)t.jpg": {
 		"ft": 16384,
 		"iS": 14212,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(3)t.jpg",
 		"oF": 0,
@@ -929,6 +913,7 @@
 	"\/img\/gallery\/thumbs\/gallery(4)t.jpg": {
 		"ft": 16384,
 		"iS": 17191,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(4)t.jpg",
 		"oF": 0,
@@ -939,6 +924,7 @@
 	"\/img\/gallery\/thumbs\/gallery(5)t.jpg": {
 		"ft": 16384,
 		"iS": 14438,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(5)t.jpg",
 		"oF": 0,
@@ -949,6 +935,7 @@
 	"\/img\/gallery\/thumbs\/gallery(6)t.jpg": {
 		"ft": 16384,
 		"iS": 12918,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(6)t.jpg",
 		"oF": 0,
@@ -959,6 +946,7 @@
 	"\/img\/gallery\/thumbs\/gallery(7)t.jpg": {
 		"ft": 16384,
 		"iS": 15143,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(7)t.jpg",
 		"oF": 0,
@@ -969,6 +957,7 @@
 	"\/img\/gallery\/thumbs\/gallery(8)t.jpg": {
 		"ft": 16384,
 		"iS": 19362,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(8)t.jpg",
 		"oF": 0,
@@ -979,6 +968,7 @@
 	"\/img\/gallery\/thumbs\/gallery(9)t.jpg": {
 		"ft": 16384,
 		"iS": 15063,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/gallery\/thumbs\/gallery(9)t.jpg",
 		"oF": 0,
@@ -1011,6 +1001,7 @@
 	"\/img\/index\/bg\/ribbon.jpg": {
 		"ft": 16384,
 		"iS": 7717,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/bg\/ribbon.jpg",
 		"oF": 0,
@@ -1021,6 +1012,7 @@
 	"\/img\/index\/links\/design-rectangle.jpg": {
 		"ft": 16384,
 		"iS": 19946,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/links\/design-rectangle.jpg",
 		"oF": 0,
@@ -1031,6 +1023,7 @@
 	"\/img\/index\/links\/project-rectangle.jpg": {
 		"ft": 16384,
 		"iS": 30723,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/links\/project-rectangle.jpg",
 		"oF": 0,
@@ -1041,6 +1034,7 @@
 	"\/img\/index\/ss\/1.jpg": {
 		"ft": 16384,
 		"iS": 86860,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/1.jpg",
 		"oF": 0,
@@ -1051,6 +1045,7 @@
 	"\/img\/index\/ss\/2.jpg": {
 		"ft": 16384,
 		"iS": 52279,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/2.jpg",
 		"oF": 0,
@@ -1061,6 +1056,7 @@
 	"\/img\/index\/ss\/3.jpg": {
 		"ft": 16384,
 		"iS": 61306,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/3.jpg",
 		"oF": 0,
@@ -1071,6 +1067,7 @@
 	"\/img\/index\/ss\/4.jpg": {
 		"ft": 16384,
 		"iS": 57677,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/4.jpg",
 		"oF": 0,
@@ -1081,6 +1078,7 @@
 	"\/img\/index\/ss\/5.jpg": {
 		"ft": 16384,
 		"iS": 66817,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/ss\/5.jpg",
 		"oF": 0,
@@ -1110,6 +1108,7 @@
 	"\/img\/services\/services-bg.jpg": {
 		"ft": 16384,
 		"iS": 49734,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/services\/services-bg.jpg",
 		"oF": 0,
@@ -1120,6 +1119,7 @@
 	"\/img\/services\/services-bg@m.jpg": {
 		"ft": 16384,
 		"iS": 19688,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/services\/services-bg@m.jpg",
 		"oF": 0,
@@ -2136,7 +2136,8 @@
 	"creationDate": 502671480,
 	"displayValue": "zaraza-design",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/apple-touch-icon-180x180-precomposed.png"
+	"iconImageName": "\/apple-touch-icon-144x144-precomposed.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2144,6 +2145,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -3938,6 +3940,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
@@ -3991,7 +3994,7 @@
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
