@@ -1,11 +1,9 @@
 {
   "name": "zaraza-design",
-  "homepage": "https://github.com/nico-watine/zaraza-design",
   "authors": [
-    "Nico Watine <nico@studioncreations.com>"
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
   "description": "www.zaraza-design.com project repo",
-  "main": "index.html",
   "license": "MIT",
   "dependencies": {
     "normalize-css": "^8.0.0"
