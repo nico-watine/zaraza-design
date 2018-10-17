@@ -1,10 +1,11 @@
 // ----------------------------------
 // |            Pre-Reqs            |
 // ----------------------------------
-// Codekit-imported Bourbon
-@import 'bourbon';
-// Normalize v3.0.1
-@import 'settings/_normalize.scss';
+
+@import 'bourbon'; // Codekit-imported Bourbon
+
+@import '_var.scss'; // Project variables & settings
+@import 'settings/_normalize.scss'; // Normalize v3.0.1
 
 
 // ---------------------------------------
