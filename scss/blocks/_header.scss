@@ -5,15 +5,12 @@ $medium: "only screen and (max-width: 767px)";
 
 header {
 	background: white;
-	// background: #F8F7E3;
 	height: 100px;
 	width: 100%;
 	position: absolute;
 	z-index: 999;
 	top: 0;
-	// border-top: 7px solid #88a9c7;
 	border-top: 7px solid #405464;
-	// border-top: 7px solid #F8F7E3;
 
 	@media #{$large} {
 		height: 125px;
@@ -54,11 +51,7 @@ header {
 
 
 .lavalamp-object {
-  	// background-color: #E4B539;
 	background-color: #E5B627;
-  	// background-color: #F58631;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
     border-radius: 50px; 
     padding-left: 9px;
     padding-right: 9px;
