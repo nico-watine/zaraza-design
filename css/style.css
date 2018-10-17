@@ -2387,7 +2387,8 @@ p {
 /* All Mobile Sizes (devices and browser) */
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-html, body {
+html,
+body {
   background: #405464;
   font-family: 'novecento', sans-serif;
 }
@@ -2469,7 +2470,7 @@ LARGE
     padding: 25px;
   }
   .contact-header {
-    top: 0px;
+    top: 0;
     margin-top: 40px;
   }
   .featured-header {
@@ -2479,8 +2480,8 @@ LARGE
     font-size: 80px;
   }
   .featured-link-div {
-    margin-top: 0px !important;
-    margin-bottom: 0px !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
   h1.featured-link {
     font-size: 40px;
@@ -2499,8 +2500,8 @@ LARGE
 /* Note: Design for a width of 480px */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   .lavalamp {
-    margin-top: 0px !important;
-    margin-bottom: 0px !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
   .footer {
     height: 110px !important;
@@ -2528,7 +2529,7 @@ LARGE
   }
   .cycle-slideshow {
     height: 151px !important;
-    margin-left: 0px !important;
+    margin-left: 0 !important;
     width: 420px !important;
   }
   .index-container {
@@ -2543,19 +2544,19 @@ LARGE
   .design-rectangle {
     width: 420px !important;
     height: 166px !important;
-    margin-left: 0px !important;
+    margin-left: 0 !important;
   }
   .design-rectangle {
-    border-top: 0px !important;
-    border-left: 0px !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
   }
   .home-text {
     width: 410px !important;
-    margin: 0px !important;
+    margin: 0 !important;
     padding-left: 5px !important;
     padding-top: 15px !important;
     padding-right: 0 !important;
-    padding-bottom: 0px !important;
+    padding-bottom: 0 !important;
     margin-top: 20px !important;
     height: 210px !important;
   }
@@ -2611,7 +2612,7 @@ LARGE
     padding-left: 0 !important;
   }
   .twitter-widget {
-    padding: 0px !important;
+    padding: 0 !important;
     margin: auto;
   }
   .footer-contact {
@@ -2655,7 +2656,7 @@ LARGE
     top: 30px;
   }
   .cycle-slideshow {
-    margin-left: 0px;
+    margin-left: 0;
     width: 300px;
     height: 115px;
   }
@@ -2677,15 +2678,15 @@ LARGE
   .design-rectangle {
     width: 300px;
     height: 119px;
-    margin-left: 0px;
+    margin-left: 0;
   }
   .design-rectangle {
-    border-top: 0px;
-    border-left: 0px;
+    border-top: 0;
+    border-left: 0;
   }
   .home-text {
     width: 280px;
-    margin: 0px;
+    margin: 0;
     height: 265px;
     padding-top: 30px;
   }
@@ -2771,7 +2772,7 @@ LARGE
     top: 240px !important;
   }
   .featured-link {
-    color: #444444 !important;
+    color: #444 !important;
   }
   h1.featured-link {
     font-size: 32px;
