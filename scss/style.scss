@@ -1,14 +1,44 @@
-@import "bourbon";
-@import "settings/_normalize.scss";
-@import "skeleton/_base.scss";
-@import "skeleton/_skeleton.scss";
-@import "components/_fonts.scss";
-@import "pages/_index.scss";
-@import "pages/_services.scss";
-@import "blocks/_header.scss";
-@import "blocks/_footer.scss";
-@import "skeleton/_custom.scss";
-@import "components/_fancybox.scss";
-@import "pages/_featured.scss";
-@import "components/_slick.scss";
-@import "components/_slick-theme.scss";
+// Codekit-imported Bourbon
+@import 'bourbon';
+
+
+// Normalize v3.0.1
+@import 'settings/_normalize.scss';
+
+
+// ---------------------------------------
+// |            Skeleton Base            |
+// ---------------------------------------
+@import 'skeleton/_base.scss';
+@import 'skeleton/_skeleton.scss';
+
+
+// -------------------------------
+// |            Pages            |
+// -------------------------------
+@import 'pages/_index.scss';
+@import 'pages/_services.scss';
+@import 'pages/_featured.scss';
+
+
+// --------------------------------
+// |            Blocks            |
+// --------------------------------
+@import 'blocks/_header.scss';
+@import 'blocks/_footer.scss';
+
+
+// ------------------------------------
+// |            Components            |
+// ------------------------------------
+@import 'components/_fonts.scss';
+@import 'components/_slick.scss';
+@import 'components/_slick-theme.scss';
+@import 'components/_fancybox.scss';
+
+
+// -----------------------------------
+// |            Remaining            |
+// -----------------------------------
+@import 'skeleton/_custom.scss';
+
