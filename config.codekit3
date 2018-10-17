@@ -7,7 +7,7 @@
 		"uuidString": "AB2B63AD-92D9-4BB2-92BE-7A6E167B182B"
 		}
 	],
-"creatorBuild": "28901",
+"creatorBuild": "28905",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -277,7 +277,7 @@
 	"/contact.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/contact.html",
 		"oF": 0
 		},
@@ -404,14 +404,14 @@
 	"/gallery/featured-project.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/gallery/featured-project.html",
 		"oF": 0
 		},
 	"/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/gallery/index.html",
 		"oF": 0
 		},
@@ -1279,7 +1279,7 @@
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/index.html",
 		"oF": 0
 		},
@@ -1684,7 +1684,7 @@
 	"/qr/_ignores/mobile.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/qr/_ignores/mobile.html",
 		"oF": 0
 		},
@@ -1798,14 +1798,14 @@
 	"/qr/mobile-temp.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/qr/mobile-temp.html",
 		"oF": 0
 		},
 	"/qr/mobile.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/qr/mobile.html",
 		"oF": 0
 		},
@@ -2204,7 +2204,7 @@
 	"/services.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/services.html",
 		"oF": 0
 		},
@@ -4255,6 +4255,16 @@
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
+		{
+			"autoOutputAction": 1,
+			"autoOutputPathFilenamePattern": "*.html",
+			"autoOutputPathRelativePath": "",
+			"autoOutputPathReplace1": "",
+			"autoOutputPathReplace2": "",
+			"autoOutputPathStyle": 0,
+			"fileExtension": "html",
+			"shouldRunCacheBuster": 0
+			}
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
