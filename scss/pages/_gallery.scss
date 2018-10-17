@@ -1,0 +1,30 @@
+/* Gallery Page Styling
+================================================== */
+
+.gallery-container {
+	background: white;
+	height: 1000px;
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+	top: 107px;
+	border-top: 5px solid #777;
+}
+
+.gallery-thumb {
+	height: 220px;
+	width: 220px;
+	border: none;
+}
+
+h2.featured-link {
+	margin-bottom: 0;
+}
+
+a.featured-link:hover {
+	text-decoration: none;
+}
+
+.container-featured-link {
+	margin-top: -50px;
+}
