@@ -2013,19 +2013,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/_custom.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/_custom.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/_var.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2126,6 +2113,58 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/css/_slick.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/custom/_custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_custom.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/custom/_large.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_large.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/custom/_medium.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_medium.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/custom/_small.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_small.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

@@ -2385,20 +2385,6 @@ p {
   }
 }
 
-html,
-body {
-  background: #405464;
-  font-family: 'novecento', sans-serif;
-}
-
-main.container {
-  background: #fff;
-}
-
-/* #Tablet (Portrait)
-LARGE
-================================================== */
-/* Note: Design for a width of 768px */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   .footer-featured {
     top: 130px;
@@ -2493,158 +2479,6 @@ LARGE
   }
 }
 
-/* #Mobile (Landscape)
-================================================== */
-/* Note: Design for a width of 480px */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
-  .lavalamp {
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
-  }
-  .footer {
-    height: 110px !important;
-    top: 245px !important;
-  }
-  .footer-featured {
-    top: 100px !important;
-  }
-  .footer-services {
-    top: 210px !important;
-  }
-  .footer-services-height {
-    top: 220px;
-  }
-  .cycle-slideshow,
-  .index-container,
-  .gallery-container,
-  .services-container,
-  .featured-container {
-    width: 420px !important;
-  }
-  .gallery-container,
-  .services-container {
-    top: 222px !important;
-  }
-  .cycle-slideshow {
-    height: 151px !important;
-    margin-left: 0 !important;
-    width: 420px !important;
-  }
-  .index-container {
-    height: 780px !important;
-    width: 420px !important;
-  }
-  .gallery-container {
-    width: 420px !important;
-    top: 247px !important;
-  }
-  .project-rectangle,
-  .design-rectangle {
-    width: 420px !important;
-    height: 166px !important;
-    margin-left: 0 !important;
-  }
-  .design-rectangle {
-    border-top: 0 !important;
-    border-left: 0 !important;
-  }
-  .home-text {
-    width: 410px !important;
-    margin: 0 !important;
-    padding-left: 5px !important;
-    padding-top: 15px !important;
-    padding-right: 0 !important;
-    padding-bottom: 0 !important;
-    margin-top: 20px !important;
-    height: 210px !important;
-  }
-  .home-text p {
-    font-size: 23px !important;
-    line-height: 33px !important;
-  }
-  .lavalamp {
-    margin-top: 20px !important;
-  }
-  .footer-gallery {
-    top: 10px !important;
-  }
-  .footer-services {
-    top: 240px;
-  }
-  .services-container {
-    width: 420px !important;
-    top: 247px !important;
-    border-top: 3px solid #777;
-    height: 950px !important;
-    background-size: contain !important;
-  }
-  .services-text {
-    left: 0 !important;
-    width: 400px !important;
-  }
-  .services-header h1 {
-    margin-top: 15px !important;
-    font-size: 80px !important;
-  }
-  .contact-container {
-    height: 1320px !important;
-    width: 420px !important;
-  }
-  .contact-header {
-    position: relative;
-    height: 180px;
-    text-align: left;
-    left: 15px !important;
-    margin-bottom: 0 !important;
-  }
-  .contact-header h1 {
-    font-size: 65px;
-    font-weight: normal;
-  }
-  .contact-text {
-    width: 420px !important;
-  }
-  .contact-text p {
-    font-size: 27px !important;
-    width: 420px !important;
-    padding-left: 0 !important;
-  }
-  .twitter-widget {
-    padding: 0 !important;
-    margin: auto;
-  }
-  .footer-contact {
-    top: 245px;
-  }
-  .featured-header h1 {
-    font-size: 55px;
-    padding-top: 10px !important;
-  }
-  .featured-link-div {
-    margin-top: 30px !important;
-    margin-bottom: 35px !important;
-  }
-  #galleria {
-    margin-top: 40px !important;
-    height: 380px !important;
-  }
-  h1.featured-link {
-    padding: 0 !important;
-    font-size: 38px !important;
-    margin-bottom: 0 !important;
-  }
-  h2.featured-link {
-    font-size: 34px !important;
-  }
-  .gallery-title h1 {
-    font-size: 75px !important;
-    margin-left: 0;
-  }
-}
-
-/*  #Mobile (Portrait)
-================================================== */
-/* Note: Design for a width of 320px */
 @media only screen and (max-width: 767px) {
   .footer {
     top: 210px;
@@ -2795,4 +2629,160 @@ LARGE
     font-size: 55px;
     margin-left: 0;
   }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .lavalamp {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  .footer {
+    height: 110px !important;
+    top: 245px !important;
+  }
+  .footer-featured {
+    top: 100px !important;
+  }
+  .footer-services {
+    top: 210px !important;
+  }
+  .footer-services-height {
+    top: 220px;
+  }
+  .cycle-slideshow,
+  .index-container,
+  .gallery-container,
+  .services-container,
+  .featured-container {
+    width: 420px !important;
+  }
+  .gallery-container,
+  .services-container {
+    top: 222px !important;
+  }
+  .cycle-slideshow {
+    height: 151px !important;
+    margin-left: 0 !important;
+    width: 420px !important;
+  }
+  .index-container {
+    height: 780px !important;
+    width: 420px !important;
+  }
+  .gallery-container {
+    width: 420px !important;
+    top: 247px !important;
+  }
+  .project-rectangle,
+  .design-rectangle {
+    width: 420px !important;
+    height: 166px !important;
+    margin-left: 0 !important;
+  }
+  .design-rectangle {
+    border-top: 0 !important;
+    border-left: 0 !important;
+  }
+  .home-text {
+    width: 410px !important;
+    margin: 0 !important;
+    padding-left: 5px !important;
+    padding-top: 15px !important;
+    padding-right: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 20px !important;
+    height: 210px !important;
+  }
+  .home-text p {
+    font-size: 23px !important;
+    line-height: 33px !important;
+  }
+  .lavalamp {
+    margin-top: 20px !important;
+  }
+  .footer-gallery {
+    top: 10px !important;
+  }
+  .footer-services {
+    top: 240px;
+  }
+  .services-container {
+    width: 420px !important;
+    top: 247px !important;
+    border-top: 3px solid #777;
+    height: 950px !important;
+    background-size: contain !important;
+  }
+  .services-text {
+    left: 0 !important;
+    width: 400px !important;
+  }
+  .services-header h1 {
+    margin-top: 15px !important;
+    font-size: 80px !important;
+  }
+  .contact-container {
+    height: 1320px !important;
+    width: 420px !important;
+  }
+  .contact-header {
+    position: relative;
+    height: 180px;
+    text-align: left;
+    left: 15px !important;
+    margin-bottom: 0 !important;
+  }
+  .contact-header h1 {
+    font-size: 65px;
+    font-weight: normal;
+  }
+  .contact-text {
+    width: 420px !important;
+  }
+  .contact-text p {
+    font-size: 27px !important;
+    width: 420px !important;
+    padding-left: 0 !important;
+  }
+  .twitter-widget {
+    padding: 0 !important;
+    margin: auto;
+  }
+  .footer-contact {
+    top: 245px;
+  }
+  .featured-header h1 {
+    font-size: 55px;
+    padding-top: 10px !important;
+  }
+  .featured-link-div {
+    margin-top: 30px !important;
+    margin-bottom: 35px !important;
+  }
+  #galleria {
+    margin-top: 40px !important;
+    height: 380px !important;
+  }
+  h1.featured-link {
+    padding: 0 !important;
+    font-size: 38px !important;
+    margin-bottom: 0 !important;
+  }
+  h2.featured-link {
+    font-size: 34px !important;
+  }
+  .gallery-title h1 {
+    font-size: 75px !important;
+    margin-left: 0;
+  }
+}
+
+html,
+body {
+  background: #405464;
+  font-family: 'novecento', sans-serif;
+}
+
+main.container {
+  background: #fff;
 }
