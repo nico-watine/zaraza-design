@@ -415,6 +415,13 @@
 		"oAP": "/gallery/featured-project.html",
 		"oF": 0
 		},
+	"/gallery/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/gallery/index.html",
+		"oF": 0
+		},
 	"/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
