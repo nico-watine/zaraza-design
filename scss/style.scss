@@ -20,6 +20,13 @@
 @import 'components/_typography.scss';
 
 
+// --------------------------------
+// |            Blocks            |
+// --------------------------------
+@import 'blocks/_header.scss';
+@import 'blocks/_footer.scss';
+
+
 // -------------------------------
 // |            Pages            |
 // -------------------------------
@@ -28,13 +35,6 @@
 @import 'pages/_featured.scss';
 @import 'pages/_gallery.scss';
 @import 'pages/_contact.scss';
-
-
-// --------------------------------
-// |            Blocks            |
-// --------------------------------
-@import 'blocks/_header.scss';
-@import 'blocks/_footer.scss';
 
 
 // ------------------------------------
@@ -50,3 +50,4 @@
 // |            Remaining            |
 // -----------------------------------
 @import 'custom/_custom.scss';
+

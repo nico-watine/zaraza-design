@@ -1279,6 +1279,184 @@ p {
   font-family: 'novecento', sans-serif;
 }
 
+header {
+  background: white;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  z-index: 999;
+  top: 0;
+  border-top: 7px solid #405464;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  header {
+    height: 125px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  header {
+    height: 240px;
+  }
+}
+
+header #logo img {
+  margin-top: 10px;
+  max-width: 340px;
+  height: auto;
+}
+
+header ul.lavalamp {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 30px;
+}
+
+header ul.lavalamp li {
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px 20px;
+  font-size: 15px;
+}
+
+header ul.lavalamp li a {
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: 30px;
+  padding-left: 16px;
+}
+
+.lavalamp-object {
+  background-color: #E5B627;
+  border-radius: 50px;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  top: 100px;
+  position: relative;
+  background: #777;
+}
+
+footer #sharing {
+  text-align: center;
+  height: 50px;
+}
+
+footer #sharing ul {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
+}
+
+footer #sharing ul li {
+  display: inline-block;
+  vertical-align: top;
+}
+
+footer #sharing ul li img {
+  height: 42px;
+  width: 42px;
+}
+
+footer #copyright {
+  height: 50px;
+}
+
+footer #copyright p {
+  font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  color: #ccc;
+  text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+  footer {
+    top: 210px;
+    height: 115px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  footer {
+    top: 245px;
+  }
+}
+
+.footer-fulton {
+  width: 100%;
+  height: 100px;
+  top: 100px;
+  position: relative;
+  background: #777;
+}
+
+.footer-gallery {
+  width: 100%;
+  height: 100px;
+  top: 100px;
+  position: relative;
+  background: #777;
+}
+
+.footer-contact {
+  width: 100%;
+  height: 100px;
+  top: 100px;
+  position: relative;
+  background: #777;
+}
+
+.footer-gallery {
+  top: 50px;
+}
+
+.footer-services {
+  top: 100px !important;
+}
+
+.footer-contact {
+  top: 107px;
+}
+
+p#studio-n {
+  font-size: 13px;
+  color: #ccc;
+  text-align: center;
+  margin-top: 0 !important;
+}
+
+p#studio-n a {
+  text-decoration: none;
+  color: #ccc;
+}
+
+p#studio-n a span {
+  text-decoration: underline;
+}
+
+p#studio-n a:hover {
+  text-decoration: underline;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.gallery-title h1 {
+  font-size: 75px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
 main#index {
   background: #fff;
   height: 890px;
@@ -1671,184 +1849,6 @@ a.featured-link:hover {
 .profile {
   display: block;
   margin: auto;
-}
-
-header {
-  background: white;
-  height: 100px;
-  width: 100%;
-  position: absolute;
-  z-index: 999;
-  top: 0;
-  border-top: 7px solid #405464;
-}
-
-@media only screen and (min-width: 768px) and (max-width: 959px) {
-  header {
-    height: 125px;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  header {
-    height: 240px;
-  }
-}
-
-header #logo img {
-  margin-top: 10px;
-  max-width: 340px;
-  height: auto;
-}
-
-header ul.lavalamp {
-  display: inline-block;
-  vertical-align: top;
-  margin-top: 30px;
-}
-
-header ul.lavalamp li {
-  display: inline-block;
-  vertical-align: top;
-  margin: 10px 20px;
-  font-size: 15px;
-}
-
-header ul.lavalamp li a {
-  color: #000;
-  font-weight: bold;
-  text-decoration: none;
-  text-transform: uppercase;
-  line-height: 30px;
-  padding-left: 16px;
-}
-
-.lavalamp-object {
-  background-color: #E5B627;
-  border-radius: 50px;
-  padding-left: 9px;
-  padding-right: 9px;
-}
-
-footer {
-  width: 100%;
-  height: 100px;
-  top: 100px;
-  position: relative;
-  background: #777;
-}
-
-footer #sharing {
-  text-align: center;
-  height: 50px;
-}
-
-footer #sharing ul {
-  display: inline-block;
-  vertical-align: top;
-  margin-top: 20px;
-}
-
-footer #sharing ul li {
-  display: inline-block;
-  vertical-align: top;
-}
-
-footer #sharing ul li img {
-  height: 42px;
-  width: 42px;
-}
-
-footer #copyright {
-  height: 50px;
-}
-
-footer #copyright p {
-  font-size: 14px;
-  margin-top: 20px;
-  margin-bottom: 0;
-  color: #ccc;
-  text-align: center;
-}
-
-@media only screen and (max-width: 767px) {
-  footer {
-    top: 210px;
-    height: 115px;
-  }
-}
-
-@media only screen and (min-width: 480px) and (max-width: 767px) {
-  footer {
-    top: 245px;
-  }
-}
-
-.footer-fulton {
-  width: 100%;
-  height: 100px;
-  top: 100px;
-  position: relative;
-  background: #777;
-}
-
-.footer-gallery {
-  width: 100%;
-  height: 100px;
-  top: 100px;
-  position: relative;
-  background: #777;
-}
-
-.footer-contact {
-  width: 100%;
-  height: 100px;
-  top: 100px;
-  position: relative;
-  background: #777;
-}
-
-.footer-gallery {
-  top: 50px;
-}
-
-.footer-services {
-  top: 100px !important;
-}
-
-.footer-contact {
-  top: 107px;
-}
-
-p#studio-n {
-  font-size: 13px;
-  color: #ccc;
-  text-align: center;
-  margin-top: 0 !important;
-}
-
-p#studio-n a {
-  text-decoration: none;
-  color: #ccc;
-}
-
-p#studio-n a span {
-  text-decoration: underline;
-}
-
-p#studio-n a:hover {
-  text-decoration: underline;
-}
-
-.align-center {
-  text-align: center;
-}
-
-.gallery-title h1 {
-  font-size: 75px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-left: 20px;
 }
 
 img {
