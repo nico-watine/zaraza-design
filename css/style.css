@@ -1252,6 +1252,16 @@ legend span {
   font-weight: 400;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: 'novecento', sans-serif;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -1262,16 +1272,6 @@ body {
   color: #0a0a0a;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  font-family: 'novecento', sans-serif;
 }
 
 header {
@@ -1332,9 +1332,6 @@ header #logo img {
 }
 
 footer {
-  top: 100px;
-  position: relative;
-  background: #777;
   padding: 20px 0;
 }
 
@@ -1356,6 +1353,10 @@ footer #sharing ul li {
 footer #sharing ul li img {
   height: 42px;
   width: 42px;
+}
+
+footer p {
+  color: #ccc;
 }
 
 footer #copyright p {

@@ -1,8 +1,8 @@
 
 footer {
-	top: 100px;
-	position: relative;
-	background: $gray;
+	// top: 100px;
+	// position: relative;
+	// background: $gray;
 	padding: 20px 0;
 
 	#sharing {
@@ -23,6 +23,10 @@ footer {
 				}
 			}
 		}
+	}
+
+	p {
+		color: #ccc;
 	}
 
 	#copyright {
