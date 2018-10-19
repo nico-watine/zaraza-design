@@ -1379,16 +1379,16 @@ footer #copyright p {
   text-align: center;
 }
 
-@media only screen and (max-width: 767px) {
-  footer {
-    top: 210px;
-    height: 115px;
-  }
-}
-
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   footer {
     top: 245px;
+  }
+}
+
+@media only screen and (max-width: 479px) {
+  footer {
+    top: 210px;
+    height: 115px;
   }
 }
 
