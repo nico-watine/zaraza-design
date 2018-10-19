@@ -404,18 +404,6 @@ th {
 * http://www.opensource.org/licenses/mit-license.php
 * 6/20/2012
 */
-/* Table of Content
-==================================================
-	#Reset & Basics
-	#Basic Styles
-	#Site Styles
-	#Typography
-	#Links
-	#Lists
-	#Images
-	#Buttons
-	#Forms
-	#Misc */
 /* #Reset & Basics (Inspired by E. Meyers)
 ================================================== */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -655,6 +643,20 @@ img.scale-with-grid {
   height: auto;
 }
 
+/* #Misc
+================================================== */
+.remove-bottom {
+  margin-bottom: 0 !important;
+}
+
+.half-bottom {
+  margin-bottom: 10px !important;
+}
+
+.add-bottom {
+  margin-bottom: 20px !important;
+}
+
 /* #Buttons
 ================================================== */
 .button,
@@ -811,28 +813,6 @@ legend span {
   color: #444;
 }
 
-/* #Misc
-================================================== */
-.remove-bottom {
-  margin-bottom: 0 !important;
-}
-
-.half-bottom {
-  margin-bottom: 10px !important;
-}
-
-.add-bottom {
-  margin-bottom: 20px !important;
-}
-
-/*
-* Skeleton V1.2
-* Copyright 2011, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 6/20/2012
-*/
 /* Table of Contents
 ==================================================
     #Base 960 Grid
