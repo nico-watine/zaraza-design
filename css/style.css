@@ -1819,6 +1819,14 @@ p#studio-n a:hover {
   margin-left: 20px;
 }
 
+img {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  -ms-interpolation-mode: bicubic;
+}
+
 @font-face {
   font-family: 'novecento';
   src: url("/fonts/novecento/novecento.eot");
