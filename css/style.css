@@ -1733,6 +1733,7 @@ main.container#featured {
   height: 220px;
   width: 220px;
   border: none;
+  margin-bottom: 40px;
 }
 
 h2.featured-link {
