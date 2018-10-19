@@ -1247,6 +1247,26 @@ legend span {
   height: 0;
 }
 
+@font-face {
+  font-family: 'novecento';
+  src: url("/fonts/novecento/novecento.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/novecento/novecento.eot?#iefix") format("embedded-opentype"), url("/fonts/novecento/novecento.woff") format("woff"), url("/fonts/novecento/novecento.ttf") format("truetype"), url("/fonts/novecento/novecento.svg#27713e1a441b4ecce14331b809e5c858") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: 'novecento', sans-serif;
+}
+
 main#index {
   background: #fff;
   height: 890px;
@@ -1825,26 +1845,6 @@ img {
   max-width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
-}
-
-@font-face {
-  font-family: 'novecento';
-  src: url("/fonts/novecento/novecento.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/novecento/novecento.eot?#iefix") format("embedded-opentype"), url("/fonts/novecento/novecento.woff") format("woff"), url("/fonts/novecento/novecento.ttf") format("truetype"), url("/fonts/novecento/novecento.svg#27713e1a441b4ecce14331b809e5c858") format("svg");
-  /* Legacy iOS */
-  font-style: normal;
-  font-weight: 400;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  font-family: 'novecento', sans-serif;
 }
 
 /* Slider */

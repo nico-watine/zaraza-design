@@ -14,6 +14,12 @@
 @import 'skeleton/_skeleton.scss';
 
 
+// ------------------------------------
+// |            Typography            |
+// ------------------------------------
+@import 'components/_typography.scss';
+
+
 // -------------------------------
 // |            Pages            |
 // -------------------------------
@@ -35,7 +41,6 @@
 // |            Components            |
 // ------------------------------------
 @import 'components/_media.scss';
-@import 'components/_fonts.scss';
 @import 'components/_slick.scss';
 @import 'components/_slick-theme.scss';
 @import 'components/_fancybox.scss';
