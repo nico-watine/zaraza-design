@@ -6,7 +6,7 @@ header {
 	position: absolute;
 	z-index: 999;
 	top: 0;
-	border-top: 7px solid #405464;
+	border-top: 7px solid $blue-gray;
 
 	@media #{$large} {
 		height: 125px;
