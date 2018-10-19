@@ -1256,7 +1256,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fefefe;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'novecento', sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
@@ -1275,13 +1275,7 @@ p {
 }
 
 header {
-  background: #fff;
   height: 100px;
-  width: 100%;
-  position: absolute;
-  z-index: 999;
-  top: 0;
-  border-top: 7px solid #405464;
 }
 
 @media only screen and (max-width: 959px) {
@@ -1301,7 +1295,9 @@ header #logo {
 }
 
 header #logo img {
+  position: relative;
   width: 340px;
+  z-index: 999;
 }
 
 .lavalamp {
@@ -1410,6 +1406,10 @@ p#studio-n a:hover {
   margin-top: 40px;
   margin-bottom: 40px;
   margin-left: 20px;
+}
+
+main.container {
+  background: #fff;
 }
 
 main#index {
@@ -2720,14 +2720,4 @@ img {
     font-size: 75px !important;
     margin-left: 0;
   }
-}
-
-html,
-body {
-  background: #405464;
-  font-family: 'novecento', sans-serif;
-}
-
-main.container {
-  background: #fff;
 }
