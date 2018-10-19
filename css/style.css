@@ -1290,7 +1290,7 @@ header {
   }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (min-width: 480px) and (max-width: 767px) {
   header {
     height: 240px;
   }
@@ -1331,7 +1331,7 @@ header #logo img {
   padding-right: 9px;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (min-width: 480px) and (max-width: 767px) {
   .lavalamp {
     margin-top: 20px;
     margin-bottom: 0;
@@ -1379,7 +1379,7 @@ footer #copyright p {
   text-align: center;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (min-width: 480px) and (max-width: 767px) {
   footer {
     top: 245px;
   }
