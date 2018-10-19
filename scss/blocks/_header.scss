@@ -16,8 +16,11 @@ header {
 		height: 240px;
 	}
 
-	#logo img {
-		margin-top: 10px;
-		width: 340px;
+	#logo {
+		padding-top: 10px;
+
+		img {
+			width: 340px;
+		}
 	}
 }

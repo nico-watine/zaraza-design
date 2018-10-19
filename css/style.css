@@ -1296,8 +1296,11 @@ header {
   }
 }
 
+header #logo {
+  padding-top: 10px;
+}
+
 header #logo img {
-  margin-top: 10px;
   width: 340px;
 }
 
