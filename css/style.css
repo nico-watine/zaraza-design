@@ -1326,18 +1326,18 @@ header #logo img {
   padding-left: 16px;
 }
 
-.lavalamp-object {
-  background-color: #e5b627;
-  border-radius: 50px;
-  padding-left: 9px;
-  padding-right: 9px;
-}
-
 @media only screen and (max-width: 767px) {
   .lavalamp {
     margin-top: 20px;
     margin-bottom: 0;
   }
+}
+
+.lavalamp-object {
+  background-color: #e5b627;
+  border-radius: 50px;
+  padding-left: 9px;
+  padding-right: 9px;
 }
 
 footer {
