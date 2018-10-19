@@ -1307,20 +1307,20 @@ header #logo img {
   height: auto;
 }
 
-ul.lavalamp {
+.lavalamp {
   display: inline-block;
   vertical-align: top;
   margin-top: 30px;
 }
 
-ul.lavalamp li {
+.lavalamp li {
   display: inline-block;
   vertical-align: top;
   margin: 10px 20px;
   font-size: 15px;
 }
 
-ul.lavalamp li a {
+.lavalamp li a {
   color: #000;
   font-weight: bold;
   text-decoration: none;
@@ -1334,6 +1334,13 @@ ul.lavalamp li a {
   border-radius: 50px;
   padding-left: 9px;
   padding-right: 9px;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .lavalamp {
+    margin-top: 20px;
+    margin-bottom: 0;
+  }
 }
 
 footer {
@@ -2526,9 +2533,6 @@ img {
     font-size: 23px;
     line-height: 33px;
   }
-  .lavalamp {
-    margin-top: 20px;
-  }
   .services-container {
     background-image: url(../img/services/services-bg@m.jpg);
     background-size: contain;
@@ -2632,10 +2636,6 @@ img {
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-  .lavalamp {
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
-  }
   .footer {
     height: 110px !important;
     top: 245px !important;
@@ -2696,9 +2696,6 @@ img {
   .home-text p {
     font-size: 23px !important;
     line-height: 33px !important;
-  }
-  .lavalamp {
-    margin-top: 20px !important;
   }
   .footer-gallery {
     top: 10px !important;
