@@ -1,9 +1,4 @@
 @charset "UTF-8";
-/* Smaller than standard 960 (devices and browsers) */
-/* Tablet Portrait size to standard 960 (devices and browsers) */
-/* All Mobile Sizes (devices and browser) */
-/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -1280,7 +1275,7 @@ p {
 }
 
 header {
-  background: white;
+  background: #fff;
   height: 100px;
   width: 100%;
   position: absolute;
@@ -1289,7 +1284,7 @@ header {
   border-top: 7px solid #405464;
 }
 
-@media only screen and (min-width: 768px) and (max-width: 959px) {
+@media only screen and (max-width: 959px) {
   header {
     height: 125px;
   }
@@ -1301,27 +1296,26 @@ header {
   }
 }
 
+header #logo {
+  padding-top: 10px;
+}
+
 header #logo img {
-  margin-top: 10px;
-  max-width: 340px;
-  height: auto;
+  width: 340px;
 }
 
-header ul.lavalamp {
-  display: inline-block;
-  vertical-align: top;
-  margin-top: 30px;
+.lavalamp {
+  margin: 30px 0 0;
 }
 
-header ul.lavalamp li {
+.lavalamp li {
   display: inline-block;
-  vertical-align: top;
   margin: 10px 20px;
   font-size: 15px;
 }
 
-header ul.lavalamp li a {
-  color: #000;
+.lavalamp li a {
+  color: #0a0a0a;
   font-weight: bold;
   text-decoration: none;
   text-transform: uppercase;
@@ -1329,30 +1323,33 @@ header ul.lavalamp li a {
   padding-left: 16px;
 }
 
+@media only screen and (max-width: 959px) {
+  .lavalamp {
+    margin-top: 20px;
+  }
+}
+
 .lavalamp-object {
-  background-color: #E5B627;
-  border-radius: 50px;
-  padding-left: 9px;
-  padding-right: 9px;
+  background-color: #e5b627;
+  border-radius: 15px;
+  padding: 0 9px;
 }
 
 footer {
-  width: 100%;
-  height: 100px;
   top: 100px;
   position: relative;
   background: #777;
+  padding: 20px 0;
 }
 
 footer #sharing {
   text-align: center;
-  height: 50px;
 }
 
 footer #sharing ul {
   display: inline-block;
   vertical-align: top;
-  margin-top: 20px;
+  margin: 0;
 }
 
 footer #sharing ul li {
@@ -1365,65 +1362,23 @@ footer #sharing ul li img {
   width: 42px;
 }
 
-footer #copyright {
-  height: 50px;
-}
-
 footer #copyright p {
   font-size: 14px;
-  margin-top: 20px;
-  margin-bottom: 0;
   color: #ccc;
   text-align: center;
 }
 
 @media only screen and (max-width: 767px) {
   footer {
-    top: 210px;
-    height: 115px;
-  }
-}
-
-@media only screen and (min-width: 480px) and (max-width: 767px) {
-  footer {
     top: 245px;
   }
 }
 
-.footer-fulton {
-  width: 100%;
-  height: 100px;
-  top: 100px;
-  position: relative;
-  background: #777;
-}
-
-.footer-gallery {
-  width: 100%;
-  height: 100px;
-  top: 100px;
-  position: relative;
-  background: #777;
-}
-
-.footer-contact {
-  width: 100%;
-  height: 100px;
-  top: 100px;
-  position: relative;
-  background: #777;
-}
-
-.footer-gallery {
-  top: 50px;
-}
-
-.footer-services {
-  top: 100px !important;
-}
-
-.footer-contact {
-  top: 107px;
+@media only screen and (max-width: 479px) {
+  footer {
+    top: 210px;
+    height: 115px;
+  }
 }
 
 p#studio-n {
@@ -2526,9 +2481,6 @@ img {
     font-size: 23px;
     line-height: 33px;
   }
-  .lavalamp {
-    margin-top: 20px;
-  }
   .services-container {
     background-image: url(../img/services/services-bg@m.jpg);
     background-size: contain;
@@ -2632,10 +2584,6 @@ img {
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-  .lavalamp {
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
-  }
   .footer {
     height: 110px !important;
     top: 245px !important;
@@ -2696,9 +2644,6 @@ img {
   .home-text p {
     font-size: 23px !important;
     line-height: 33px !important;
-  }
-  .lavalamp {
-    margin-top: 20px !important;
   }
   .footer-gallery {
     top: 10px !important;

@@ -1,0 +1,29 @@
+
+.lavalamp {
+	margin: 30px 0 0;
+
+	li {
+		display: inline-block;
+		margin: 10px 20px;
+		font-size: 15px;
+
+		a {
+			color: $black;
+			font-weight: bold;
+			text-decoration: none;
+			text-transform: uppercase;
+			line-height: 30px;
+			padding-left: 16px;
+		}
+	}
+
+	@media #{$large} {
+		margin-top: 20px;
+	}
+}
+
+.lavalamp-object {
+	background-color: $gold;
+	border-radius: 15px;
+	padding: 0 9px;
+}
