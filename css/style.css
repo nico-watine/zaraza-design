@@ -1336,21 +1336,20 @@ header #logo img {
 }
 
 footer {
-  height: 100px;
   top: 100px;
   position: relative;
   background: #777;
+  padding: 20px 0;
 }
 
 footer #sharing {
   text-align: center;
-  height: 50px;
 }
 
 footer #sharing ul {
   display: inline-block;
   vertical-align: top;
-  margin-top: 20px;
+  margin: 0;
 }
 
 footer #sharing ul li {
@@ -1363,14 +1362,8 @@ footer #sharing ul li img {
   width: 42px;
 }
 
-footer #copyright {
-  height: 50px;
-}
-
 footer #copyright p {
   font-size: 14px;
-  margin-top: 20px;
-  margin-bottom: 0;
   color: #ccc;
   text-align: center;
 }
