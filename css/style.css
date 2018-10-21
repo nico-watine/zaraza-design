@@ -1581,7 +1581,7 @@ main#index #slide-show .cycle-slideshow {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: white;
-  border-top: 5px solid #777777;
+  border-top: 5px solid #777;
 }
 
 .services-header {
@@ -1611,7 +1611,7 @@ main#index #slide-show .cycle-slideshow {
 
 .services-text p {
   padding: 10px;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-weight: 300;
 }
 
