@@ -1266,6 +1266,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fefefe;
+  word-wrap: break-word;
   font-family: 'novecento', sans-serif;
   font-weight: normal;
   line-height: 1.5;
