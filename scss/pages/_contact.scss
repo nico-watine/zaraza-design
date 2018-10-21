@@ -1,38 +1,35 @@
 /* Contact Page Styling
 ================================================== */
 
-.contact-container
-{
-	height: 680px;
-	width: 960px;
-	position: relative;
-	margin: 0 auto;
-	top: 107px;
-	background-image: url(../img/contact/contact-bg2.jpg);
+.contact-container {
+	// height: 680px;
+	// width: 960px;
+	// position: relative;
+	// margin: 0 auto;
+	// top: 107px;
+	background-image: url(/img/contact/contact-bg2.jpg);
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-color: white;
-	border-top: 5px solid #777777;
+	border-top: 5px solid #777;
 }
 
-.contact-header
-{
-	position: relative;
-	height: 100px;
-	text-align:left;
+// .contact-header {
+// 	position: relative;
+// 	height: 100px;
+// 	text-align: left;
+// 	margin-top: 20px;
+// }
+
+.contact-header h1 {
 	margin-top: 20px;
-}
-
-.contact-header h1
-{
 	font-size: 90px;
 	font-weight: normal;
 	padding: 25px;
 }
 
-.contact-text p
-{
+.contact-text p {
 	font-size: 37px;
 	padding-top: 30px;
 	line-height: 40px;
