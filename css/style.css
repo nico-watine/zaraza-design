@@ -1244,16 +1244,6 @@ legend span {
 }
 
 @font-face {
-  font-family: 'Novecento';
-  src: url("/fonts/novecento/novecento.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/novecento/novecento.eot?#iefix") format("embedded-opentype"), url("/fonts/novecento/novecento.woff") format("woff"), url("/fonts/novecento/novecento.ttf") format("truetype"), url("/fonts/novecento/novecento.svg#27713e1a441b4ecce14331b809e5c858") format("svg");
-  /* Legacy iOS */
-  font-style: normal;
-  font-weight: 400;
-}
-
-@font-face {
   font-family: 'Novecento Sans Wide Book';
   src: url("/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff2") format("woff2"), url("/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff") format("woff"), url("/fonts/novecento-sans-wide-book/novecento-sans-wide-book.otf") format("opentype");
   font-style: normal;
