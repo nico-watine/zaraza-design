@@ -1253,6 +1253,13 @@ legend span {
   font-weight: 400;
 }
 
+@font-face {
+  font-family: 'Novecento Sans Wide Book';
+  src: url("/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff2") format("woff2"), url("/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff") format("woff"), url("/fonts/novecento-sans-wide-book/novecento-sans-wide-book.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+
 h1,
 h2,
 h3,

@@ -305,6 +305,37 @@
 		"oAP": "/favicon.ico",
 		"oF": 0
 		},
+	"/fonts/novecento-sans-wide-book/novecento-sans-wide-book.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/fonts/novecento-sans-wide-book/novecento-sans-wide-book-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/fonts/novecento-sans-wide-book/novecento-sans-wide-book.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/fonts/novecento-sans-wide-book/novecento-sans-wide-book.ttf",
+		"oF": 0
+		},
+	"/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff",
+		"oF": 0
+		},
+	"/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff2",
+		"oF": 0
+		},
 	"/fonts/novecento/novecento.eot": {
 		"cB": 0,
 		"ft": 8192,
