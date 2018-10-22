@@ -5,6 +5,7 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -1243,7 +1244,7 @@ legend span {
 }
 
 @font-face {
-  font-family: 'novecento';
+  font-family: 'Novecento';
   src: url("/fonts/novecento/novecento.eot");
   /* IE9 Compat Modes */
   src: url("/fonts/novecento/novecento.eot?#iefix") format("embedded-opentype"), url("/fonts/novecento/novecento.woff") format("woff"), url("/fonts/novecento/novecento.ttf") format("truetype"), url("/fonts/novecento/novecento.svg#27713e1a441b4ecce14331b809e5c858") format("svg");
@@ -1259,7 +1260,7 @@ h4,
 h5,
 h6,
 p {
-  font-family: 'novecento', sans-serif;
+  font-family: 'Novecento', sans-serif;
 }
 
 body {
