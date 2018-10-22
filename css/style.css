@@ -341,100 +341,11 @@ template {
 * http://www.opensource.org/licenses/mit-license.php
 * 6/20/2012
 */
-/* #Reset & Basics (Inspired by E. Meyers)
-================================================== */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-  display: block;
-}
-
-body {
-  line-height: 1;
-}
-
-ol, ul {
-  list-style: none;
-}
-
-blockquote, q {
-  quotes: none;
-}
-
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
 /* #Typography
 ================================================== */
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a {
-  font-weight: inherit;
-}
-
-p {
-  margin: 0 0 20px 0;
-}
-
-em {
-  font-style: italic;
-}
-
-strong {
-  font-weight: bold;
-  color: #333;
-}
-
-small {
-  font-size: 80%;
-}
-
 /*	Blockquotes  */
-hr {
-  border: solid #ddd;
-  border-width: 1px 0 0;
-  clear: both;
-  margin: 10px 0 30px;
-  height: 0;
-}
-
 /* #Links
 ================================================== */
-a,
-a:visited {
-  color: #333;
-  text-decoration: underline;
-  outline: 0;
-}
-
-a:hover,
-a:focus {
-  color: #000;
-}
-
-p a,
-p a:visited {
-  line-height: inherit;
-}
-
 /* #Lists
 ================================================== */
 /* #Images
@@ -899,6 +810,34 @@ img.scale-with-grid {
   font-weight: 400;
 }
 
+p {
+  margin: 0 0 1em 0;
+}
+
+hr {
+  clear: both;
+  max-width: 75rem;
+  height: 0;
+  margin: 1.25rem auto;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 1px solid #cacaca;
+  border-left: 0;
+}
+
+a {
+  -webkit-text-decoration-skip: initial;
+  line-height: inherit;
+  color: #1779ba;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a:hover, a:focus {
+  color: #1468a0;
+  text-decoration: none;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -1113,6 +1052,10 @@ img {
   max-width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+}
+
+a img {
+  border: 0;
 }
 
 /* Slider */
