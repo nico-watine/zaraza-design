@@ -438,26 +438,25 @@ table {
   border-spacing: 0;
 }
 
-/* #Basic Styles
-================================================== */
-body {
-  background: #fff;
-  font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #444;
-  -webkit-font-smoothing: antialiased;
-  /* Fix for webkit rendering */
-  -webkit-text-size-adjust: 100%;
-}
-
 /* #Typography
 ================================================== */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #181818;
   font-family: Novo, sans-serif;
   font-weight: normal;
 }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
   font-weight: inherit;
 }
 
@@ -527,7 +526,8 @@ small {
 }
 
 /*	Blockquotes  */
-blockquote, blockquote p {
+blockquote,
+blockquote p {
   font-size: 17px;
   line-height: 24px;
   color: #777;
@@ -547,10 +547,12 @@ blockquote cite {
 }
 
 blockquote cite:before {
-  content: "\2014 \0020";
+  content: '\2014 \0020';
 }
 
-blockquote cite a, blockquote cite a:visited, blockquote cite a:visited {
+blockquote cite a,
+blockquote cite a:visited,
+blockquote cite a:visited {
   color: #555;
 }
 
@@ -564,23 +566,27 @@ hr {
 
 /* #Links
 ================================================== */
-a, a:visited {
+a,
+a:visited {
   color: #333;
   text-decoration: underline;
   outline: 0;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
   color: #000;
 }
 
-p a, p a:visited {
+p a,
+p a:visited {
   line-height: inherit;
 }
 
 /* #Lists
 ================================================== */
-ul, ol {
+ul,
+ol {
   margin-bottom: 20px;
 }
 
@@ -592,7 +598,10 @@ ol {
   list-style: decimal;
 }
 
-ol, ul.square, ul.circle, ul.disc {
+ol,
+ul.square,
+ul.circle,
+ul.disc {
   margin-left: 30px;
 }
 
@@ -608,14 +617,18 @@ ul.disc {
   list-style: disc outside;
 }
 
-ul ul, ul ol,
-ol ol, ol ul {
+ul ul,
+ul ol,
+ol ol,
+ol ul {
   margin: 4px 0 5px 30px;
   font-size: 90%;
 }
 
-ul ul li, ul ol li,
-ol ol li, ol ul li {
+ul ul li,
+ul ol li,
+ol ol li,
+ol ul li {
   margin-bottom: 6px;
 }
 
@@ -1250,22 +1263,12 @@ legend span {
   font-weight: 400;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  font-family: 'Novecento', sans-serif;
-}
-
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #777;
   word-wrap: break-word;
-  font-family: 'novecento', sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
