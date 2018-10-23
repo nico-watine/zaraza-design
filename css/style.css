@@ -333,6 +333,63 @@ template {
   display: none;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+  background: #777;
+  word-wrap: break-word;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #0a0a0a;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+em,
+i {
+  font-style: italic;
+  line-height: inherit;
+}
+
+strong,
+b {
+  font-weight: bold;
+  line-height: inherit;
+}
+
+small {
+  font-size: 80%;
+  line-height: inherit;
+}
+
+a img {
+  border: 0;
+}
+
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache
@@ -341,13 +398,6 @@ template {
 * http://www.opensource.org/licenses/mit-license.php
 * 6/20/2012
 */
-/* #Typography
-================================================== */
-/*	Blockquotes  */
-/* #Links
-================================================== */
-/* #Lists
-================================================== */
 /* #Images
 ================================================== */
 img.scale-with-grid {
@@ -811,7 +861,10 @@ img.scale-with-grid {
 }
 
 p {
-  margin: 0 0 1em 0;
+  margin-bottom: 1rem;
+  font-size: inherit;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
 }
 
 hr {
@@ -836,6 +889,14 @@ a {
 a:hover, a:focus {
   color: #1468a0;
   text-decoration: none;
+}
+
+h1 {
+  font-size: 1.5rem;
+  /*24px*/
+  line-height: 1.4;
+  margin-top: 0;
+  margin-bottom: .5rem;
 }
 
 body {
@@ -1052,10 +1113,6 @@ img {
   max-width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
-}
-
-a img {
-  border: 0;
 }
 
 /* Slider */

@@ -3,8 +3,8 @@
 // |            Pre-Reqs            |
 // ----------------------------------
 @import '_var.scss'; // Project variables & settings
-@import "../bower_components/normalize-css/normalize"; // normalize.css v8.0
-
+@import '../bower_components/normalize-css/normalize'; // normalize.css v8.0
+@import '_resets.scss';
 
 // ---------------------------------------
 // |            Skeleton Base            |
