@@ -21,10 +21,15 @@ h6,
 }
 
 p {
+	font-size: $p;
 	margin-bottom: 1rem;
 	font-size: inherit;
 	line-height: 1.6;
 	text-rendering: optimizeLegibility;
+}
+
+p.lead {
+	font-size: $p * $lead-value;
 }
 
 hr {
@@ -49,5 +54,87 @@ a {
 	&:focus {
 		color: #1468a0;
 		text-decoration: none;
+	}
+}
+
+h1,
+.h1 {
+	font-size: $h1;
+}
+
+h2,
+.h2 {
+	font-size: $h2;
+}
+
+h3,
+.h3 {
+	font-size: $h3;
+}
+
+h4,
+.h4 {
+	font-size: $h4;
+}
+
+h5,
+.h5 {
+	font-size: $h5;
+}
+
+h6,
+.h6 {
+	font-size: $h6;
+}
+
+@media #{$medium} {
+	h1,
+	.h1 {
+		font-size: $h1-medium;
+	}
+
+	h2,
+	.h2 {
+		font-size: $h2-medium;
+	}
+
+	h3,
+	.h3 {
+		font-size: $h3-medium;
+	}
+
+	h4,
+	.h4 {
+		font-size: $h4-medium;
+	}
+
+	p {
+		font-size: $p-medium;
+	}
+
+	p.lead {
+		font-size: $p-medium * $lead-value;
+	}
+}
+
+@media #{$small} {
+	h1,
+	.h1 {
+		font-size: $h1-small;
+	}
+
+	h2,
+	.h2 {
+		font-size: $h2-small;
+	}
+
+	h3,
+	.h3 {
+		font-size: $h3-small;
+	}
+
+	h4,
+	.h4 {
+		font-size: $h4-small;
 	}
 }

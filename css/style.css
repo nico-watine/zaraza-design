@@ -868,10 +868,15 @@ h6,
 }
 
 p {
+  font-size: 18px;
   margin-bottom: 1rem;
   font-size: inherit;
   line-height: 1.6;
   text-rendering: optimizeLegibility;
+}
+
+p.lead {
+  font-size: 22.5px;
 }
 
 hr {
@@ -896,6 +901,80 @@ a {
 a:hover, a:focus {
   color: #1468a0;
   text-decoration: none;
+}
+
+h1,
+.h1 {
+  font-size: 81px;
+}
+
+h2,
+.h2 {
+  font-size: 54px;
+}
+
+h3,
+.h3 {
+  font-size: 36px;
+}
+
+h4,
+.h4 {
+  font-size: 24px;
+}
+
+h5,
+.h5 {
+  font-size: 16px;
+}
+
+h6,
+.h6 {
+  font-size: 14px;
+}
+
+@media only screen and (max-width: 767px) {
+  h1,
+  .h1 {
+    font-size: 61px;
+  }
+  h2,
+  .h2 {
+    font-size: 41px;
+  }
+  h3,
+  .h3 {
+    font-size: 27px;
+  }
+  h4,
+  .h4 {
+    font-size: 22px;
+  }
+  p {
+    font-size: 16px;
+  }
+  p.lead {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 479px) {
+  h1,
+  .h1 {
+    font-size: 32px;
+  }
+  h2,
+  .h2 {
+    font-size: 26px;
+  }
+  h3,
+  .h3 {
+    font-size: 22px;
+  }
+  h4,
+  .h4 {
+    font-size: 18px;
+  }
 }
 
 body {
