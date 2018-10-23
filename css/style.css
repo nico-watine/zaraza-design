@@ -1054,30 +1054,20 @@ header #logo img {
 
 footer {
   padding: 20px 0;
-}
-
-footer #sharing {
   text-align: center;
 }
 
-footer #sharing ul {
+footer .smm-links-list {
   display: inline-block;
-  vertical-align: top;
-  margin: 0;
 }
 
-footer #sharing ul li {
+footer .smm-links-list li {
   display: inline-block;
   vertical-align: top;
 }
 
-footer #sharing ul li img {
-  height: 42px;
+footer .smm-links-list li img {
   width: 42px;
-}
-
-footer p {
-  color: #ccc;
 }
 
 footer #copyright p {
