@@ -1070,6 +1070,11 @@ footer .smm-links-list li img {
   width: 42px;
 }
 
+footer p {
+  color: #ccc;
+  font-family: "Novecento Sans Wide Book", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 footer #copyright p {
   font-size: 14px;
   color: #ccc;
