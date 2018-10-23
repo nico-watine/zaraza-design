@@ -1123,6 +1123,17 @@ main.container {
   background: #fff;
 }
 
+.index#index .row.welcome-text {
+  padding: 26px 0 34px;
+  background: #fff url("/img/index/bg/ribbon.jpg") center center/750px auto no-repeat;
+}
+
+.index#index .row.welcome-text .prose {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 /* Slider */
 .slick-slider {
   position: relative;

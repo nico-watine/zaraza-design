@@ -1,3 +1,22 @@
+.index#index {
+	.row.welcome-text {
+		padding: 26px 0 34px;
+		background: #fff url("/img/index/bg/ribbon.jpg") center center/750px auto no-repeat;
+
+		.prose {
+			text-align: center;
+			max-width: 600px;
+			margin: 0 auto;
+		}
+	}
+}
+
+
+
+
+
+
+
 // $large: "only screen and (min-width: 768px) and (max-width: 959px)";
 // $medium: "only screen and (min-width: 480px) and (max-width: 767px)";
 // $small: "only screen and (max-width: 767px)";
@@ -132,5 +151,3 @@
 // 		width: 381px;
 // 	}
 // }
-
-
