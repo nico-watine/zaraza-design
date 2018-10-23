@@ -1123,66 +1123,19 @@ main.container {
   background: #fff;
 }
 
-.index#index .row.welcome-text {
+.index#index .welcome-text {
   padding: 26px 0 34px;
   background: #fff url("/img/index/bg/ribbon.jpg") center center/750px auto no-repeat;
 }
 
-.index#index .row.welcome-text .prose {
+.index#index .welcome-text .prose {
   text-align: center;
   max-width: 600px;
   margin: 0 auto;
 }
 
-#project-widget {
-  width: 480px;
+.index#index .page-links {
   border-top: 3px solid #777;
-  border-bottom: 3px solid #777;
-}
-
-@media only screen and (max-width: 479px) {
-  #project-widget {
-    width: 300px;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  #project-widget {
-    width: 420px;
-  }
-}
-
-@media only screen and (max-width: 959px) {
-  #project-widget {
-    width: 384px;
-  }
-}
-
-#services-widget {
-  border-left: 3px solid #777;
-  border-top: 3px solid #777;
-  border-bottom: 3px solid #777;
-  width: 477px;
-}
-
-@media only screen and (max-width: 479px) {
-  #services-widget {
-    width: 300px;
-    border-left: 0;
-    border-top: 0;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  #services-widget {
-    width: 420px;
-  }
-}
-
-@media only screen and (max-width: 959px) {
-  #services-widget {
-    width: 381px;
-  }
 }
 
 /* Slider */
