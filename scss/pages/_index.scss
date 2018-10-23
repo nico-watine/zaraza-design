@@ -1,136 +1,39 @@
-$large: "only screen and (min-width: 768px) and (max-width: 959px)";
-$medium: "only screen and (min-width: 480px) and (max-width: 767px)";
-$small: "only screen and (max-width: 767px)";
+.index#index {
+	.welcome-text {
+		padding: 26px 0 34px;
+		background: #fff url('/img/index/bg/ribbon.jpg') center center/750px auto no-repeat;
 
-main#index {
-	background: #fff;
-	height: 890px;
-	position: relative;
-	top: 107px;
-	border-top: 5px solid #777;
-
-	@media #{$small} {
-		top: 247px;
-		height: 650px;
-	}
-
-	@media #{$medium} {
-		height: 750px;
-	}
-
-	@media #{$large} {
-		top: 132px;
-		height: 770px;
-	}
-
-	#slide-show {
-		width: 100%;
-
-		.cycle-slideshow {
-			height: 100%;
-			position: relative; 
-			top: 0;
-			left: 0;
-			overflow: hidden;
+		.prose {
+			text-align: center;
+			max-width: 600px;
+			margin: 0 auto;
 		}
 	}
 
-}
-
-
-#welcome-text {
-
-	#text-container {
-		width: 670px;
-		height: 210px;
-		margin: 0 auto;
-		padding-top: 40px;
-		text-align:center;
-		background: url('/img/index/bg/ribbon.jpg') no-repeat;
-		background-size: contain;
-		background-position: center center;
-
-		h1 {
-			font-size: 40px;
-		}
-
-		p {
-			font-size: 30px;
-			line-height: 38px;
-		}
-
-		@media #{$large} {
-			padding-top: 30px;
-		}
-
-		@media #{$small} {
-			width: 100%;
-			padding-top: 20px;
-
-			p {
-				padding-left: 10px;
-				padding-right: 10px;
-				font-size: 23px;
-				line-height: 33px;
-			}
-		}
-	}
-}
-
-#project-widget,
-#services-widget {
-	height: 190px;
-
-	@media #{$small} {
-		height: 119px;
-	}
-
-	@media #{$medium} {
-		height: 166px;
-	}
-
-	@media #{$large} {
-		height: 157px;
-	}
-}
-
-#project-widget {
-	width: 480px;
-	border-top: 3px solid #777;
-	border-bottom: 3px solid #777;
-
-	@media #{$small} {
-		width: 300px;
-	}
-
-	@media #{$medium} {
-		width: 420px;
-	}
-
-	@media #{$large} {
-		width: 384px;
-	}
-}
-
-#services-widget {
-	border-left: 3px solid #777;
-	border-top: 3px solid #777;
-	border-bottom: 3px solid #777;
-	width: 477px;
-
-	@media #{$small} {
-		width: 300px;
-		border-left: 0;
-		border-top: 0;
-	}
-
-	@media #{$medium} {
-		width: 420px;
-	}
-
-	@media #{$large} {
-		width: 381px;
+	.link-block {
+		border: 3px solid $gray;
+		width: 50%;
 	}
 }
 
 
+
+
+
+
+
+// #project-widget {
+// 	border-top: 3px solid #777;
+// 	border-bottom: 3px solid #777;
+// }
+
+// #services-widget {
+// 	border-left: 3px solid #777;
+// 	border-top: 3px solid #777;
+// 	border-bottom: 3px solid #777;
+
+// 	@media #{$small} {
+// 		border-left: 0;
+// 		border-top: 0;
+// 	}
+// }
