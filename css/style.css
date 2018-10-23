@@ -1145,12 +1145,9 @@ main.container {
   margin: 0 auto;
 }
 
-.index#index .link-banner {
-  border-top: 3px solid #777;
-}
-
-.index#index .link-banner .link {
+.index#index .link-block {
   border: 3px solid #777;
+  width: 50%;
 }
 
 /* Slider */

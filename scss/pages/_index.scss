@@ -1,7 +1,7 @@
 .index#index {
 	.welcome-text {
 		padding: 26px 0 34px;
-		background: #fff url("/img/index/bg/ribbon.jpg") center center/750px auto no-repeat;
+		background: #fff url('/img/index/bg/ribbon.jpg') center center/750px auto no-repeat;
 
 		.prose {
 			text-align: center;
@@ -10,12 +10,9 @@
 		}
 	}
 
-	.link-banner {
-		border-top: 3px solid $gray;
-
-		.link {
-			border: 3px solid $gray;
-		}
+	.link-block {
+		border: 3px solid $gray;
+		width: 50%;
 	}
 }
 
