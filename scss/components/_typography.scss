@@ -32,6 +32,11 @@ p.lead {
 	font-size: $p * $lead-value;
 }
 
+.title {
+	font-family: $title-font;
+	font-weight: normal;
+}
+
 hr {
 	clear: both;
 	max-width: 75rem;
