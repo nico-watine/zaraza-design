@@ -305,76 +305,25 @@
 		"oAP": "/favicon.ico",
 		"oF": 0
 		},
-	"/fonts/novecento/novecento.eot": {
+	"/fonts/novecento-sans-wide-book/novecento-sans-wide-book.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/fonts/novecento/novecento.eot",
+		"oAP": "/fonts/novecento-sans-wide-book/novecento-sans-wide-book.ttf",
 		"oF": 0
 		},
-	"/fonts/novecento/novecento.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/fonts/novecento/novecento.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/fonts/novecento/novecento.ttf": {
+	"/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/fonts/novecento/novecento.ttf",
+		"oAP": "/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff",
 		"oF": 0
 		},
-	"/fonts/novecento/novecento.woff": {
+	"/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/fonts/novecento/novecento.woff",
-		"oF": 0
-		},
-	"/fonts/novecento/wide-book/font.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/fonts/novecento/wide-book/font-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"/fonts/novecento/wide-book/novecento.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/novecento/wide-book/novecento.eot",
-		"oF": 0
-		},
-	"/fonts/novecento/wide-book/novecento.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/fonts/novecento/wide-book/novecento.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/fonts/novecento/wide-book/novecento.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/novecento/wide-book/novecento.ttf",
-		"oF": 0
-		},
-	"/fonts/novecento/wide-book/novecento.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/novecento/wide-book/novecento.woff",
+		"oAP": "/fonts/novecento-sans-wide-book/novecento-sans-wide-book.woff2",
 		"oF": 0
 		},
 	"/fonts/slick/slick.eot": {
@@ -2013,6 +1962,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/_resets.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/_resets.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/_var.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2022,19 +1984,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/css/_var.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/blocks/_body.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_body.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2100,19 +2049,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/css/_fancybox.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/components/_media.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2299,58 +2235,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/settings/_normalize.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_normalize.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/skeleton/_buttons-forms.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_buttons-forms.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/skeleton/_misc.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_misc.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/skeleton/_resets.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_resets.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/skeleton/_skeleton.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2360,19 +2244,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/css/_skeleton.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/skeleton/_typography.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

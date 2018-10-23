@@ -20,3 +20,39 @@ $gold: #e5b627; // Yellow within the logo
 $black: #0a0a0a;
 $blue-gray: #405464;
 $gray: #777;
+
+
+
+// ------------------------------------
+// |            Typography            |
+// ------------------------------------
+
+// Fonts
+$standard-font: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$title-font: 'Novecento Sans Wide Book', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+// Sizes---------
+
+$lead-value: 1.25;
+
+// Default
+$h1: 81px;
+$h2: 54px;
+$h3: 36px;
+$h4: 24px;
+$h5: 16px;
+$h6: 14px;
+$p: 18px;
+
+// Medium - 420px Grid
+$h1-medium: 61px;
+$h2-medium: 41px;
+$h3-medium: 27px;
+$h4-medium: 22px;
+$p-medium: 16px;
+
+// Small - 300px Grid
+$h1-small: 32px;
+$h2-small: 26px;
+$h3-small: 22px;
+$h4-small: 18px;

@@ -1,10 +1,10 @@
+
 // ----------------------------------
 // |            Pre-Reqs            |
 // ----------------------------------
-
 @import '_var.scss'; // Project variables & settings
-@import 'settings/_normalize.scss'; // Normalize v3.0.1
-
+@import '../bower_components/normalize-css/normalize'; // normalize.css v8.0
+@import '_resets.scss';
 
 // ---------------------------------------
 // |            Skeleton Base            |
@@ -21,7 +21,6 @@
 // --------------------------------
 // |            Blocks            |
 // --------------------------------
-@import 'blocks/_body.scss';
 @import 'blocks/_header.scss';
 @import 'blocks/_nav.scss';
 @import 'blocks/_footer.scss';
@@ -41,7 +40,6 @@
 // ------------------------------------
 // |            Components            |
 // ------------------------------------
-@import 'components/_media.scss';
 @import 'components/_slick.scss';
 @import 'components/_slick-theme.scss';
 @import 'components/_fancybox.scss';
