@@ -390,6 +390,14 @@ a img {
   border: 0;
 }
 
+img {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  -ms-interpolation-mode: bicubic;
+}
+
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache
@@ -1096,14 +1104,6 @@ main.container {
     padding-left: 0;
     margin-bottom: 30px;
   }
-}
-
-img {
-  display: inline-block;
-  vertical-align: middle;
-  max-width: 100%;
-  height: auto;
-  -ms-interpolation-mode: bicubic;
 }
 
 /* Slider */
