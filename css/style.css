@@ -860,6 +860,26 @@ img.scale-with-grid {
   font-weight: 400;
 }
 
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  line-height: 1.4;
+  font-style: normal;
+  font-weight: normal;
+  color: inherit;
+  text-rendering: optimizeLegibility;
+  margin-bottom: .5rem;
+}
+
 p {
   margin-bottom: 1rem;
   font-size: inherit;
@@ -889,14 +909,6 @@ a {
 a:hover, a:focus {
   color: #1468a0;
   text-decoration: none;
-}
-
-h1 {
-  font-size: 1.5rem;
-  /*24px*/
-  line-height: 1.4;
-  margin-top: 0;
-  margin-bottom: .5rem;
 }
 
 body {
