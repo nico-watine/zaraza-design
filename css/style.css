@@ -1123,62 +1123,6 @@ main.container {
   background: #fff;
 }
 
-.contact#contact .page-title {
-  padding: 0 16px;
-}
-
-.contact-container {
-  background: #fff url("/img/contact/contact-bg2.jpg") center bottom/contain no-repeat;
-  border-top: 5px solid #777;
-  padding-top: 20px;
-}
-
-.contact-header h1 {
-  font-size: 90px;
-  font-weight: normal;
-  line-height: 1;
-}
-
-.contact-text p {
-  font-size: 37px;
-  padding-top: 30px;
-  line-height: 40px;
-  padding-left: 20px;
-}
-
-.twitter-widget {
-  text-align: center;
-  padding: 40px 0;
-}
-
-.profile {
-  display: block;
-  margin: auto;
-}
-
-@media only screen and (max-width: 959px) {
-  .contact-header h1 {
-    font-size: 73px;
-  }
-  .contact-text p {
-    font-size: 30px;
-    padding-top: 30px;
-    padding-left: 20px;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .contact-header h1 {
-    font-size: 65px;
-  }
-  .contact-text p {
-    text-align: center;
-    font-size: 27px;
-    padding-left: 0;
-    margin-bottom: 30px;
-  }
-}
-
 /* Slider */
 .slick-slider {
   position: relative;
