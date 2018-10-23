@@ -10,8 +10,12 @@
 		}
 	}
 
-	.page-links {
+	.link-banner {
 		border-top: 3px solid $gray;
+
+		.link {
+			border: 3px solid $gray;
+		}
 	}
 }
 
