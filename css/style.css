@@ -1081,19 +1081,6 @@ footer #copyright p {
   text-align: center;
 }
 
-@media only screen and (max-width: 767px) {
-  footer {
-    top: 245px;
-  }
-}
-
-@media only screen and (max-width: 479px) {
-  footer {
-    top: 210px;
-    height: 115px;
-  }
-}
-
 p#studio-n {
   font-size: 13px;
   color: #ccc;
@@ -1112,17 +1099,6 @@ p#studio-n a span {
 
 p#studio-n a:hover {
   text-decoration: underline;
-}
-
-.align-center {
-  text-align: center;
-}
-
-.gallery-title h1 {
-  font-size: 75px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-left: 20px;
 }
 
 main.container {
@@ -1961,4 +1937,11 @@ main.container {
     font-size: 75px !important;
     margin-left: 0;
   }
+}
+
+.gallery-title h1 {
+  font-size: 75px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20px;
 }
