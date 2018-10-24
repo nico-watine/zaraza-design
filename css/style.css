@@ -1116,6 +1116,7 @@ main.container {
 }
 
 .services#services .page-title {
+  text-align: center;
   padding: 0 16px;
 }
 
