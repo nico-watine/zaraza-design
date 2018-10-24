@@ -1145,7 +1145,7 @@ main.container {
 .contact-container {
   background: #fff url("/img/contact/contact-bg2.jpg") center bottom/contain no-repeat;
   border-top: 5px solid #777;
-  padding-top: 20px;
+  padding: 20px 0 50px;
 }
 
 /* Slider */
