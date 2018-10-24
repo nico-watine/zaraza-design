@@ -1105,6 +1105,12 @@ main.container {
   width: 50%;
 }
 
+@media only screen and (max-width: 767px) {
+  .index#index .link-block {
+    width: 100%;
+  }
+}
+
 /* Slider */
 .slick-slider {
   position: relative;

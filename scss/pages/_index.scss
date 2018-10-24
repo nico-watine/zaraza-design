@@ -13,27 +13,9 @@
 	.link-block {
 		border: 3px solid $gray;
 		width: 50%;
+
+		@media #{$medium} {
+			width: 100%;
+		}
 	}
 }
-
-
-
-
-
-
-
-// #project-widget {
-// 	border-top: 3px solid #777;
-// 	border-bottom: 3px solid #777;
-// }
-
-// #services-widget {
-// 	border-left: 3px solid #777;
-// 	border-top: 3px solid #777;
-// 	border-bottom: 3px solid #777;
-
-// 	@media #{$small} {
-// 		border-left: 0;
-// 		border-top: 0;
-// 	}
-// }
