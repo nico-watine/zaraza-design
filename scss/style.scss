@@ -31,7 +31,7 @@
 // |            Pages            |
 // -------------------------------
 @import 'pages/_index.scss';
-// @import 'pages/_services.scss';
+@import 'pages/_services.scss';
 // @import 'pages/_featured.scss';
 // @import 'pages/_gallery.scss';
 // @import 'pages/_contact.scss';
@@ -48,4 +48,4 @@
 // -----------------------------------
 // |            Remaining            |
 // -----------------------------------
-@import 'custom/_custom.scss';
+// @import 'custom/_custom.scss';

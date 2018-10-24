@@ -1,47 +1,17 @@
+.services#services {
+	.services-container {
+		background: #fff url("/img/services/services-bg.jpg") center top/contain no-repeat;
+		padding-top: 20px;
+	}
 
-/* Services Page Styling
-================================================== */
+	.page-title {
+		text-align: center;
+		padding: 0 16px;
+	}
 
-.services-container {
-	// height: 660px;
-	// width: 960px;
-	// position: relative;
-	// margin: 0 auto;
-	// top: 107px;
-	background-image: url(/img/services/services-bg.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-color: white;
-	// border-top: 5px solid #777;
-}
-
-// .services-header {
-// 	position: absolute;
-// 	top: 70px;
-// 	left: 35px !important;
-// 	width: 413px;
-// 	height: 50px;
-// 	text-align: left;
-// 	line-height: 1px;
-// }
-
-.services-header h1 {
-	font-size: 90px;
-	font-weight: normal;
-}
-
-.services-text {
-	// position: absolute;
-	// top: 160px;
-	// left: 10px;
-	font-size: 24px;
-	line-height: 1.4;
-	padding: 20px;
-	// width: 820px;
-}
-
-.services-text p {
-	// padding: 10px;
-	font-family: 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 300;
+	.page-text {
+		padding: 0 16px;
+		max-width: 600px;
+		margin: 0 auto;
+	}
 }
