@@ -2,16 +2,12 @@
 	.gallery-container {
 		background: #fff;
 		border-top: 5px solid #777;
-		padding-bottom: 50px;
+		padding: 20px 0 50px;
 	}
 
-	.gallery-image-grid {
-		text-align: center;
+	.gallery-thumb {
+		max-width: 220px;
+		border: none;
+		margin: 0 auto 40px;
 	}
-}
-
-.gallery-thumb {
-	max-width: 220px;
-	border: none;
-	margin-bottom: 40px;
 }

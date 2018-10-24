@@ -1131,17 +1131,13 @@ main.container {
 .gallery#gallery .gallery-container {
   background: #fff;
   border-top: 5px solid #777;
-  padding-bottom: 50px;
+  padding: 20px 0 50px;
 }
 
-.gallery#gallery .gallery-image-grid {
-  text-align: center;
-}
-
-.gallery-thumb {
+.gallery#gallery .gallery-thumb {
   max-width: 220px;
   border: none;
-  margin-bottom: 40px;
+  margin: 0 auto 40px;
 }
 
 .contact#contact .page-title {
