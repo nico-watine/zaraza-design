@@ -892,6 +892,7 @@ p.lead {
 .title-font {
   font-family: "Novecento Sans Wide Book", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
+  line-height: 1.2;
 }
 
 hr {
