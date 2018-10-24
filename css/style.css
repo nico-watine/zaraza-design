@@ -1119,6 +1119,12 @@ main.container {
   padding: 0 16px;
 }
 
+.services#services .page-text {
+  padding: 0 16px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 /* Slider */
 .slick-slider {
   position: relative;
