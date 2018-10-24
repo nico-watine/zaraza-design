@@ -1,4 +1,8 @@
-
+.services#services {
+	.services-container {
+		background: #fff url("/img/services/services-bg.jpg") center top/contain no-repeat;
+	}
+}
 /* Services Page Styling
 ================================================== */
 
@@ -8,10 +12,10 @@
 	// position: relative;
 	// margin: 0 auto;
 	// top: 107px;
-	background-image: url(/img/services/services-bg.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-color: white;
+	// background-image: url(/img/services/services-bg.jpg);
+	// background-size: cover;
+	// background-repeat: no-repeat;
+	// background-color: white;
 	// border-top: 5px solid #777;
 }
 
