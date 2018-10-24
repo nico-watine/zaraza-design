@@ -889,9 +889,10 @@ p.lead {
   font-size: 22.5px;
 }
 
-.title {
+.title-font {
   font-family: "Novecento Sans Wide Book", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
+  line-height: 1.2;
 }
 
 hr {
@@ -978,7 +979,7 @@ h6,
 @media only screen and (max-width: 479px) {
   h1,
   .h1 {
-    font-size: 32px;
+    font-size: 38px;
   }
   h2,
   .h2 {
