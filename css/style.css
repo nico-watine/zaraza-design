@@ -881,7 +881,6 @@ h6,
 p {
   font-size: 18px;
   margin-bottom: 1rem;
-  font-size: inherit;
   line-height: 1.6;
   text-rendering: optimizeLegibility;
 }
@@ -1113,24 +1112,11 @@ main.container {
 
 .services#services .services-container {
   background: #fff url("/img/services/services-bg.jpg") center top/contain no-repeat;
+  padding-top: 20px;
 }
 
-/* Services Page Styling
-================================================== */
-.services-header h1 {
-  font-size: 90px;
-  font-weight: normal;
-}
-
-.services-text {
-  font-size: 24px;
-  line-height: 1.4;
-  padding: 20px;
-}
-
-.services-text p {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  font-weight: 300;
+.services#services .page-title {
+  padding: 0 16px;
 }
 
 /* Slider */
