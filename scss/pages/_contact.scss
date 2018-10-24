@@ -2,60 +2,30 @@
 	.page-title {
 		padding: 0 16px;
 	}
+
+	.page-text {
+		padding: 0 16px;
+		text-align: center;
+		margin-bottom: 20px;
+
+		.prose {
+			text-align: left;
+			display: inline-block;
+		}
+	}
+
+	.twitter-widget {
+		text-align: center;
+	}
+
+	.twitter-timeline {
+		width: 300px;
+		height: 450px;
+	}
 }
 
 .contact-container {
 	background: #fff url('/img/contact/contact-bg2.jpg') center bottom/contain no-repeat;
 	border-top: 5px solid #777;
-	padding-top: 20px;
-}
-
-.contact-header h1 {
-	// margin-top: 20px;
-	font-size: 90px;
-	font-weight: normal;
-	line-height: 1;
-	// padding: 25px;
-}
-
-.contact-text p {
-	font-size: 37px;
-	padding-top: 30px;
-	line-height: 40px;
-	padding-left: 20px;
-}
-
-.twitter-widget {
-	text-align: center;
-	padding: 40px 0
-}
-
-.profile {
-	display: block;
-	margin: auto;
-}
-
-@media #{$large} {
-	.contact-header h1 {
-		font-size: 73px;
-	}
-
-	.contact-text p {
-		font-size: 30px;
-		padding-top: 30px;
-		padding-left: 20px;
-	}
-}
-
-@media #{$medium} {
-	.contact-header h1 {
-		font-size: 65px;
-	}
-
-	.contact-text p {
-		text-align: center;
-		font-size: 27px;
-		padding-left: 0;
-		margin-bottom: 30px;
-	}
+	padding: 20px 0 50px;
 }
