@@ -1128,6 +1128,26 @@ main.container {
   margin: 0 auto;
 }
 
+.contact#contact .page-title {
+  padding: 0 16px;
+}
+
+.contact#contact .page-text {
+  padding: 0 16px;
+  text-align: center;
+}
+
+.contact#contact .page-text .prose {
+  text-align: left;
+  display: inline-block;
+}
+
+.contact-container {
+  background: #fff url("/img/contact/contact-bg2.jpg") center bottom/contain no-repeat;
+  border-top: 5px solid #777;
+  padding-top: 20px;
+}
+
 /* Slider */
 .slick-slider {
   position: relative;
