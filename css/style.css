@@ -1128,6 +1128,22 @@ main.container {
   margin: 0 auto;
 }
 
+.gallery#gallery .gallery-container {
+  background: #fff;
+  border-top: 5px solid #777;
+  padding-bottom: 50px;
+}
+
+.gallery#gallery .gallery-image-grid {
+  text-align: center;
+}
+
+.gallery-thumb {
+  max-width: 220px;
+  border: none;
+  margin-bottom: 40px;
+}
+
 .contact#contact .page-title {
   padding: 0 16px;
 }

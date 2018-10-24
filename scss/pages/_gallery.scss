@@ -1,31 +1,17 @@
-/* Gallery Page Styling
-================================================== */
+.gallery#gallery {
+	.gallery-container {
+		background: #fff;
+		border-top: 5px solid #777;
+		padding-bottom: 50px;
+	}
 
-// .gallery-container {
-// 	background: white;
-// 	height: 1000px;
-// 	width: 960px;
-// 	position: relative;
-// 	margin: 0 auto;
-// 	top: 107px;
-// 	border-top: 5px solid #777;
-// }
+	.gallery-image-grid {
+		text-align: center;
+	}
+}
 
 .gallery-thumb {
-	height: 220px;
-	width: 220px;
+	max-width: 220px;
 	border: none;
 	margin-bottom: 40px;
 }
-
-h2.featured-link {
-	margin-bottom: 0;
-}
-
-a.featured-link:hover {
-	text-decoration: none;
-}
-
-// .container-featured-link {
-// 	margin-top: -50px;
-// }
