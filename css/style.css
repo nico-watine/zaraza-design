@@ -1054,80 +1054,35 @@ header #logo img {
 
 footer {
   padding: 20px 0;
-}
-
-footer #sharing {
   text-align: center;
+  color: #ccc;
+  font-family: "Novecento Sans Wide Book", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-footer #sharing ul {
+footer .smm-links-list {
+  display: inline-block;
+}
+
+footer .smm-links-list li {
   display: inline-block;
   vertical-align: top;
-  margin: 0;
 }
 
-footer #sharing ul li {
-  display: inline-block;
-  vertical-align: top;
-}
-
-footer #sharing ul li img {
-  height: 42px;
+footer .smm-links-list li img {
   width: 42px;
 }
 
-footer p {
-  color: #ccc;
-}
-
-footer #copyright p {
-  font-size: 14px;
-  color: #ccc;
-  text-align: center;
-}
-
-@media only screen and (max-width: 767px) {
-  footer {
-    top: 245px;
-  }
-}
-
-@media only screen and (max-width: 479px) {
-  footer {
-    top: 210px;
-    height: 115px;
-  }
-}
-
-p#studio-n {
-  font-size: 13px;
-  color: #ccc;
-  text-align: center;
-  margin-top: 0 !important;
-}
-
-p#studio-n a {
+footer .colophon {
   text-decoration: none;
-  color: #ccc;
+  color: inherit;
 }
 
-p#studio-n a span {
+footer .colophon span {
   text-decoration: underline;
 }
 
-p#studio-n a:hover {
+footer .colophon:hover {
   text-decoration: underline;
-}
-
-.align-center {
-  text-align: center;
-}
-
-.gallery-title h1 {
-  font-size: 75px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-left: 20px;
 }
 
 main.container {
@@ -1966,4 +1921,11 @@ main.container {
     font-size: 75px !important;
     margin-left: 0;
   }
+}
+
+.gallery-title h1 {
+  font-size: 75px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20px;
 }
