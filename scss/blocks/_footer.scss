@@ -2,6 +2,8 @@
 footer {
 	padding: 20px 0;
 	text-align: center;
+	color: #ccc;
+	font-family: $title-font;
 
 	.smm-links-list {
 		display: inline-block;
@@ -16,30 +18,9 @@ footer {
 		}
 	}
 
-	p {
-		color: #ccc;
-		font-family: $title-font;
-	}
-
-	#copyright {
-		p {
-			font-size: 14px;
-			color: #ccc;
-			text-align: center;
-		}
-	}
-}
-
-
-p#studio-n {
-	font-size: 13px;
-	color: #ccc;
-	text-align: center;
-	margin-top: 0 !important;
-
-	a {
+	.colophon {
 		text-decoration: none;
-		color: #ccc;
+		color: inherit;
 
 		span {
 			text-decoration: underline;

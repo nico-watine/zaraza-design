@@ -1055,6 +1055,8 @@ header #logo img {
 footer {
   padding: 20px 0;
   text-align: center;
+  color: #ccc;
+  font-family: "Novecento Sans Wide Book", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 footer .smm-links-list {
@@ -1070,34 +1072,16 @@ footer .smm-links-list li img {
   width: 42px;
 }
 
-footer p {
-  color: #ccc;
-  font-family: "Novecento Sans Wide Book", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-footer #copyright p {
-  font-size: 14px;
-  color: #ccc;
-  text-align: center;
-}
-
-p#studio-n {
-  font-size: 13px;
-  color: #ccc;
-  text-align: center;
-  margin-top: 0 !important;
-}
-
-p#studio-n a {
+footer .colophon {
   text-decoration: none;
-  color: #ccc;
+  color: inherit;
 }
 
-p#studio-n a span {
+footer .colophon span {
   text-decoration: underline;
 }
 
-p#studio-n a:hover {
+footer .colophon:hover {
   text-decoration: underline;
 }
 
