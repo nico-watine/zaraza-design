@@ -5,6 +5,13 @@
 		padding: 20px 0 50px;
 	}
 
+	.page-title {
+		@media #{$medium} {
+			text-align: center;
+		}
+		padding: 0 16px;
+	}
+
 	.gallery-thumb {
 		max-width: 220px;
 		border: none;

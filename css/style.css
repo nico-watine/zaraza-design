@@ -1134,6 +1134,16 @@ main.container {
   padding: 20px 0 50px;
 }
 
+.gallery#gallery .page-title {
+  padding: 0 16px;
+}
+
+@media only screen and (max-width: 767px) {
+  .gallery#gallery .page-title {
+    text-align: center;
+  }
+}
+
 .gallery#gallery .gallery-thumb {
   max-width: 220px;
   border: none;
