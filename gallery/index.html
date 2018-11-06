@@ -26,7 +26,7 @@
 		}
 	</style>
 </head>
-<body style="background: #777;">
+<body class="gallery" id="gallery" style="background: #777;">
 
 <header style="background: #fff; border-top: 7px solid #405464;">
 	<div class="container">
@@ -47,61 +47,90 @@
 </header>
 
 <main class="page-content" style="background: #405464;">
-	<div class="container" style="background: #fff; border-top: 5px solid #777; padding-bottom: 50px;">
+	<div class="container gallery-container">
 		<div class="row">
-			<div class="eight columns">
-				<div class="gallery-title">
-					<h1>Gallery</h1>
+			<div class="sixteen columns">
+				<div class="page-title">
+					<h1 class="title-font">Gallery</h1>
 				</div>
 			</div>
 		</div>
-		<!-- GALLERY THUMBS -->
-		<div class="no-margin row">
-			<div class="four columns align-center">
-				<a class="fancybox"  data-caption="Game Rooms" data-fancybox-group="gallery" href="http://www.zarazadesign.com/img/gallery/pics/gallery(1).jpg" /><img src="/img/gallery/thumbs/gallery(1)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+		<div class="gallery-image-grid">
+			<div class="no-margin row">
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox"  data-caption="Game Rooms" data-fancybox-group="gallery" href="http://www.zarazadesign.com/img/gallery/pics/gallery(1).jpg" /><img src="/img/gallery/thumbs/gallery(1)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Living Rooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(2).jpg" data-fancybox-group="gallery"/><img src="/img/gallery/thumbs/gallery(2)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Sitting Areas" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(3).jpg" data-fancybox-group="gallery"  /><img src="/img/gallery/thumbs/gallery(3)t.jpg" id="thumb" style="top: 440px; left: 0px;" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Bedrooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(4).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(4)t.jpg" id="thumb" style="top: 0px; left: 220px;" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
 			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Living Rooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(2).jpg" data-fancybox-group="gallery"/><img src="/img/gallery/thumbs/gallery(2)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+			<div class="no-margin row">
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Bedrooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(5).jpg" data-fancybox-group="gallery"  /><img src="/img/gallery/thumbs/gallery(5)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Bedrooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(6).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(6)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Dining Rooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(15).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(15)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Nurseries" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(14).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(14)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
 			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Sitting Areas" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(3).jpg" data-fancybox-group="gallery"  /><img src="/img/gallery/thumbs/gallery(3)t.jpg" id="thumb" class="gallery-thumb" style="top: 440px; left: 0px;" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Bedrooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(4).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(4)t.jpg" id="thumb" class="gallery-thumb" style="top: 0px; left: 220px;" alt="Zaraza Design" title="Zaraza Design"/></a>
+			<div class="no-margin row">
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Dens" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(13).jpg" data-fancybox-group="gallery"  /><img src="/img/gallery/thumbs/gallery(13)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Living Rooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(10).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(10)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Patio Spaces" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(11).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(11)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
+				<div class="four columns">
+					<div class="gallery-thumb">
+						<a class="fancybox" title="Bars" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(12).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(12)t.jpg" id="thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
+					</div>
+				</div>
 			</div>
 		</div>
-		<div class="no-margin row">
-			<div class="four columns align-center">
-				<a class="fancybox" title="Bedrooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(5).jpg" data-fancybox-group="gallery"  /><img src="/img/gallery/thumbs/gallery(5)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Bedrooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(6).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(6)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Dining Rooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(15).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(15)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Nurseries" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(14).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(14)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-		</div>
-		<div class="no-margin row">
-			<div class="four columns align-center">
-				<a class="fancybox" title="Dens" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(13).jpg" data-fancybox-group="gallery"  /><img src="/img/gallery/thumbs/gallery(13)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Living Rooms" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(10).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(10)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Patio Spaces" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(11).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(11)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-			<div class="four columns align-center">
-				<a class="fancybox" title="Bars" rel="group" href="http://www.zarazadesign.com/img/gallery/pics/gallery(12).jpg" data-fancybox-group="gallery" /><img src="/img/gallery/thumbs/gallery(12)t.jpg" id="thumb" class="gallery-thumb" alt="Zaraza Design" title="Zaraza Design"/></a>
-			</div>
-		</div>
-		<div class="row container-featured-link">
-			<div class="nine columns featured-link-div offset-by-seven">
-				<h2 class="featured-link">featured project</h2>
-				<a href="/gallery/featured-project" class="featured-link"><h1 class="featured-link">The Heights Home</h1></a>
+		<div class="row">
+			<div class="seven columns">&nbsp;</div>
+			<div class="nine columns text-center">
+				<div class="prose display-inline-block text-left">
+					<h4 class="display-inline-block">Featured Project</h4>
+					<br>
+					<a href="/gallery/featured-project" class="title-font"><span class="h3">The Heights Home</span></a>
+				</div>
 			</div>
 		</div>
 	</div>

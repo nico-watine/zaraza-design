@@ -995,6 +995,18 @@ h6,
   }
 }
 
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
 header {
   height: 100px;
 }
@@ -1126,6 +1138,28 @@ main.container {
   padding: 0 16px;
   max-width: 600px;
   margin: 0 auto;
+}
+
+.gallery#gallery .gallery-container {
+  background: #fff;
+  border-top: 5px solid #777;
+  padding: 20px 0 50px;
+}
+
+.gallery#gallery .page-title {
+  padding: 0 16px;
+}
+
+@media only screen and (max-width: 767px) {
+  .gallery#gallery .page-title {
+    text-align: center;
+  }
+}
+
+.gallery#gallery .gallery-thumb {
+  max-width: 220px;
+  border: none;
+  margin: 0 auto 40px;
 }
 
 .contact#contact .page-title {
@@ -1682,4 +1716,8 @@ main.container {
     background-size: 24px 24px;
     /*The size of the normal image, half the size of the hi-res image*/
   }
+}
+
+.display-inline-block {
+  display: inline-block;
 }
