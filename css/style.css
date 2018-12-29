@@ -1149,25 +1149,6 @@ main.container {
   padding: 0 16px;
 }
 
-.featured-project#featured-project .page-text {
-  padding: 0 16px;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-.gallery-return h2 {
-  margin-top: 40px;
-  text-align: center;
-}
-
-.gallery-return h2 a {
-  text-decoration: underline;
-}
-
-.gallery-return h2 a:hover {
-  text-decoration: none;
-}
-
 .slider-for img {
   margin: 0 auto;
   max-width: 900px;
