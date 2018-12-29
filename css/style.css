@@ -1140,6 +1140,63 @@ main.container {
   margin: 0 auto;
 }
 
+.featured-project#featured-project .featured-project-container {
+  background: #fff url("/img/services/services-bg.jpg") center top/contain no-repeat;
+  padding-top: 20px;
+}
+
+.featured-project#featured-project .page-title {
+  padding: 0 16px;
+}
+
+.slider-for img {
+  margin: 0 auto;
+  max-width: 900px;
+  width: 100%;
+}
+
+.slider-nav img {
+  max-width: 230px;
+  height: auto;
+}
+
+@media only screen and (max-width: 959px) {
+  .slider-nav img {
+    max-width: 190px;
+  }
+}
+
+#touch-swipe img {
+  width: 100%;
+}
+
+.slick-slide {
+  padding-top: 15px;
+}
+
+.slick-slide.slick-center {
+  padding-top: 0;
+}
+
+@media only screen and (max-width: 767px) {
+  #mouse-swipe {
+    visibility: hidden;
+    display: none;
+  }
+}
+
+#touch-swipe {
+  visibility: hidden;
+  display: none;
+}
+
+@media only screen and (max-width: 767px) {
+  #touch-swipe {
+    visibility: visible;
+    display: block;
+  }
+}
+
 .gallery#gallery .gallery-container {
   background: #fff;
   border-top: 5px solid #777;

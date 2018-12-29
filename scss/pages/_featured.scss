@@ -1,70 +1,18 @@
-$large: "only screen and (min-width: 768px) and (max-width: 959px)";
-$medium: "only screen and (max-width: 767px)";
-
-
-.featured-container {
-	background: white;
-	height: 900px;
-	width: 960px;
-	position: relative;
-	margin: 0 auto;
-	top: 107px;
-	border-top: 5px solid #777777;
-}
-
-.page-title {
-	text-align: center;
-	padding-top: 20px;
-
-	h1 {
-		font-size: 70px;
-		font-weight: normal;
-		line-height: normal;
-
-		@media #{$large} {
-			font-size: 60px;
-		}
-
-		@media #{$medium} {
-			font-size: 45px;
-		}
-	}
-}
-
-main.container#featured {
-	top: 107px;
-	border-top: 5px solid #777;
-	padding-bottom: 55px;
-
-	@media #{$large} {
-		top: 132px;
+.featured-project#featured-project {
+	.featured-project-container {
+		background: #fff url('/img/services/services-bg.jpg') center top/contain no-repeat;
+		padding-top: 20px;
 	}
 
-	@media #{$medium} {
-		top: 247px;
-	}
-}
-
-.gallery-return {
-
-	h2 {
-		margin-top: 40px;
-		text-align: center;
-	}
-
-	h2 a {
-		text-decoration: underline;
-
-		&:hover {
-			text-decoration: none;
-		}
+	.page-title {
+		padding: 0 16px;
 	}
 }
 
 .slider-for img {
-    margin: 0 auto;
-    max-width: 900px;
-    width: 100%;
+	margin: 0 auto;
+	max-width: 900px;
+	width: 100%;
 }
 
 .slider-nav img {
